@@ -1,0 +1,501 @@
+id,timestamp,username,platform,topic,text,true_sentiment,is_sarcasm,city
+428,2024-07-08 07:02,frustrated_taxpayer531,Facebook,Health,Blood bank is always empty. Every patient's family has to arrange blood on their own. (Reporting from Jaipur),NEGATIVE,False,Chandigarh
+475,2024-01-15 01:42,news_follower_in882,Facebook,Transport,Traffic signals on the main road have been broken for 3 months. Accidents happening daily. (Reporting from Hyderabad),NEGATIVE,False,Nagpur
+350,2024-05-03 11:31,ground_reality457,Reddit,Taxes,Received income tax notice for taxes already paid. No response from department for 4 months.,NEGATIVE,False,Nagpur
+427,2024-10-16 21:55,proudindian_88754,Survey Form,Education,"Teachers in government school spend half the day on election duty, not teaching.",NEGATIVE,False,Bhopal
+140,2024-11-08 05:23,news_follower_in940,Facebook,Education,Education department is conducting a school mapping survey across all districts.,NEUTRAL,False,Chandigarh
+7,2024-12-15 20:04,ground_reality651,Reddit,Transport,No buses after 8pm in our area. Women cannot travel safely because of this.,NEGATIVE,False,Visakhapatnam
+432,2024-04-18 04:11,aam_aadmi_voice371,Government Portal,Education,Teacher recruitment has been frozen for 5 years. Schools running on skeleton staff.,NEGATIVE,False,Chennai
+466,2024-06-10 15:19,realitycheckIN576,Government Portal,Taxes,Income tax officers demand cash to process legitimate refunds. Where is the accountability?,NEGATIVE,False,Delhi
+437,2024-11-01 18:04,hopeful_citizen388,Survey Form,Transport,The flyover construction was completed on time for once. Great project management.,POSITIVE,False,Kolkata
+83,2024-11-14 15:40,health_worker_india779,Twitter,Taxes,Tax refund stuck for 2 years. Called 10 times. Written 5 letters. Nothing moves.,NEGATIVE,False,Pune
+385,2024-08-16 10:07,teacher_truth764,Twitter,Taxes,Small business is shutting down because of compliance burden. Every month a new form. (Reporting from Nagpur),NEGATIVE,False,Chennai
+245,2024-07-27 03:01,policy_watch363,Government Portal,Education,Teacher recruitment has been frozen for 5 years. Schools running on skeleton staff.,NEGATIVE,False,Bengaluru
+33,2024-01-23 00:21,proudindian_88653,Facebook,Health,The district hospital renovation is complete and it looks world class now.,POSITIVE,False,Hyderabad
+251,2024-10-15 06:37,rural_voice_in185,Government Portal,Transport,The road we pay toll on is in worse condition than a dirt track. Daylight robbery.,NEGATIVE,False,Mumbai
+339,2024-04-08 04:02,student_speaks81,Survey Form,Education,Our government school got a computer lab! The computers have been in boxes for 2 years.,NEGATIVE,True,Pune
+249,2024-06-19 19:24,voice_of_voter451,Facebook,Taxes,The simplified tax forms for small businesses are a huge relief. Finally user-friendly. (Reporting from Chandigarh),POSITIVE,False,Kochi
+294,2024-02-02 08:45,urban_observer643,Twitter,Health,The ICU at district hospital has been non-functional for 3 weeks. People are dying.,NEGATIVE,False,Nagpur
+426,2024-09-14 00:42,hopeful_citizen869,Government Portal,Education,Teacher recruitment has been frozen for 5 years. Schools running on skeleton staff. (Reporting from Bhopal),NEGATIVE,False,Hyderabad
+15,2024-06-06 07:03,hopeful_citizen900,Government Portal,Health,Blood bank is always empty. Every patient's family has to arrange blood on their own. (Reporting from Bhopal),NEGATIVE,False,Bengaluru
+349,2024-12-26 06:17,news_follower_in844,Survey Form,Education,The mid-day meal program has significantly improved school attendance in our village.,POSITIVE,False,Indore
+473,2024-02-22 03:04,teacher_truth562,Twitter,Education,The Right to Education Act review is currently underway at the national level. (Reporting from Chandigarh),NEUTRAL,False,Mumbai
+359,2024-10-13 05:43,voice_of_voter671,Twitter,Education,The exam results are out but certificates are delayed for 8 months. Unacceptable. (Reporting from Jaipur),NEGATIVE,False,Ahmedabad
+316,2024-01-16 08:03,teacher_truth543,Facebook,Transport,Traffic signals on the main road have been broken for 3 months. Accidents happening daily. (Reporting from Ahmedabad),NEGATIVE,False,Ahmedabad
+94,2024-12-26 03:28,aam_aadmi_voice711,Facebook,Health,No medicines in the government dispensary again. Third time this month. Absolute failure.,NEGATIVE,False,Mumbai
+394,2024-06-24 09:28,proudindian_88142,Survey Form,Taxes,Tax refund stuck for 2 years. Called 10 times. Written 5 letters. Nothing moves.,NEGATIVE,False,Indore
+141,2024-11-27 10:04,voice_of_voter97,Government Portal,Taxes,Finance ministry released the tax collection data for Q3. Numbers are being reviewed.,NEUTRAL,False,Chandigarh
+209,2024-12-06 06:48,hopeful_citizen697,Government Portal,Taxes,Direct tax code revision is under discussion. Public consultation process underway.,NEUTRAL,False,Bengaluru
+283,2024-07-07 09:08,daily_commuter793,Reddit,Taxes,"Tax portal did not crash during filing season this year. Small miracle, but appreciated. (Reporting from Patna)",POSITIVE,False,Kolkata
+303,2024-09-23 13:44,news_follower_in470,Twitter,Health,"Got my surgery done at the government hospital. Zero cost, great care. Thank you.",POSITIVE,False,Chennai
+200,2024-08-31 15:41,frustrated_taxpayer775,Facebook,Education,Free laptop distribution to Class 10 students was a wonderful initiative.,POSITIVE,False,Patna
+123,2024-05-22 18:14,student_speaks866,Government Portal,Health,No female doctors in the government hospital. Women refuse to go there.,NEGATIVE,False,Visakhapatnam
+480,2024-10-14 13:25,hopeful_citizen168,Survey Form,Health,Government hospital toilets are in a disgusting state. No hygiene whatsoever.,NEGATIVE,False,Chandigarh
+45,2024-03-27 21:05,public_pulse528,Government Portal,Taxes,Tax refund stuck for 2 years. Called 10 times. Written 5 letters. Nothing moves.,NEGATIVE,False,Patna
+97,2024-08-26 09:43,rural_voice_in162,Twitter,Transport,"Roads in our area have not been repaired in 5 years. Full of craters, not potholes.",NEGATIVE,False,Surat
+318,2024-01-15 22:44,news_follower_in971,Government Portal,Education,No textbooks delivered even 3 months into the academic year. Criminal negligence.,NEGATIVE,False,Kolkata
+69,2024-07-03 05:19,citizen_raj726,Government Portal,Transport,They built a footpath and it collapsed in the first rain. Engineering marvel.,NEGATIVE,True,Kolkata
+74,2024-03-21 07:11,rural_voice_in77,Reddit,Education,Government college has 3 professors for 800 students. How is anyone supposed to learn?,NEGATIVE,False,Mumbai
+243,2024-07-13 22:50,proudindian_88758,Survey Form,Transport,State transport department has issued a tender for 200 new buses. (Reporting from Kolkata),NEUTRAL,False,Patna
+228,2024-01-24 18:55,hopeful_citizen760,Reddit,Transport,The new flyover has a toll booth but no road connecting to it. Visionary planning.,NEGATIVE,True,Mumbai
+407,2024-08-16 07:57,ground_reality941,Government Portal,Taxes,"Excellent idea adding a new tax on top of the existing tax. Tax on tax, very innovative. (Reporting from Bhopal)",NEGATIVE,True,Ahmedabad
+113,2024-05-01 18:20,citizen_raj179,Facebook,Education,The mid-day meal program has significantly improved school attendance in our village. (Reporting from Bhopal),POSITIVE,False,Delhi
+163,2024-06-13 03:05,voice_of_voter677,Facebook,Health,The ambulance never came. My father had to be taken in a private vehicle. Shameful.,NEGATIVE,False,Lucknow
+370,2024-08-01 14:24,govtcritic99561,Facebook,Health,The government has announced a new health policy. Details are yet to be released. (Reporting from Chennai),NEUTRAL,False,Nagpur
+56,2024-04-18 14:20,voice_of_voter780,Survey Form,Taxes,The simplified tax forms for small businesses are a huge relief. Finally user-friendly.,POSITIVE,False,Jaipur
+160,2024-06-07 16:25,rural_voice_in485,Facebook,Health,The government has announced a new health policy. Details are yet to be released.,NEUTRAL,False,Delhi
+19,2024-04-27 02:57,angry_voter_2024881,Facebook,Education,"Government school has no blackboard, no chalk, no teacher. Just empty classrooms. (Reporting from Delhi)",NEGATIVE,False,Bengaluru
+438,2024-11-06 03:11,teacher_truth924,Government Portal,Health,The district hospital renovation is complete and it looks world class now.,POSITIVE,False,Delhi
+291,2024-07-19 18:40,policy_watch318,Survey Form,Education,Our government school got a computer lab! The computers have been in boxes for 2 years.,NEGATIVE,True,Ahmedabad
+234,2024-09-25 04:15,frustrated_taxpayer635,Government Portal,Taxes,"Filing GST is so simple now. Only takes 3 days, 2 accountants and a prayer to the server gods. (Reporting from Chennai)",NEGATIVE,True,Jaipur
+130,2024-04-27 16:35,news_follower_in74,Survey Form,Taxes,Income tax helpline was actually helpful. Issue resolved in one call.,POSITIVE,False,Delhi
+104,2024-04-25 21:46,daily_commuter991,Government Portal,Taxes,"Filing GST is so simple now. Only takes 3 days, 2 accountants and a prayer to the server gods.",NEGATIVE,True,Bhopal
+194,2024-08-23 17:21,rural_voice_in363,Facebook,Taxes,The TDS deducted from my salary does not show in Form 26AS. Complete system failure.,NEGATIVE,False,Nagpur
+151,2024-07-10 07:24,policy_watch384,Reddit,Transport,Highway is 'under construction' for 7 years now. Must be the slowest construction in history. (Reporting from Indore),NEGATIVE,True,Mumbai
+95,2024-07-10 13:09,hopeful_citizen544,Survey Form,Health,Waited 6 hours at the government hospital and still didn't see a doctor. Pathetic system.,NEGATIVE,False,Hyderabad
+225,2024-06-19 09:58,citizen_raj217,Reddit,Health,"Got my surgery done at the government hospital. Zero cost, great care. Thank you.",POSITIVE,False,Chennai
+224,2024-04-07 01:17,daily_commuter690,Government Portal,Taxes,"Excellent idea adding a new tax on top of the existing tax. Tax on tax, very innovative.",NEGATIVE,True,Delhi
+313,2024-08-16 04:02,ground_reality635,Government Portal,Transport,Traffic signals on the main road have been broken for 3 months. Accidents happening daily.,NEGATIVE,False,Ahmedabad
+233,2024-01-07 00:33,realitycheckIN549,Facebook,Taxes,Faceless assessment is genuinely reducing harassment from tax officers. Good reform.,POSITIVE,False,Mumbai
+186,2024-08-18 17:17,ground_reality697,Government Portal,Education,Government college has 3 professors for 800 students. How is anyone supposed to learn? (Reporting from Indore),NEGATIVE,False,Chennai
+260,2024-08-24 07:51,daily_commuter645,Reddit,Education,No textbooks delivered even 3 months into the academic year. Criminal negligence.,NEGATIVE,False,Hyderabad
+238,2024-10-15 21:02,aam_aadmi_voice952,Facebook,Health,New MBBS seats have been added to government medical colleges this year.,NEUTRAL,False,Mumbai
+255,2024-11-26 21:41,daily_commuter991,Facebook,Education,"Government school has no blackboard, no chalk, no teacher. Just empty classrooms.",NEGATIVE,False,Kochi
+201,2024-04-28 17:47,angry_voter_2024936,Reddit,Transport,State buses are always overloaded and 2 hours late. Absolute chaos every morning.,NEGATIVE,False,Kochi
+498,2024-09-26 19:44,urban_observer263,Twitter,Health,The ICU at district hospital has been non-functional for 3 weeks. People are dying.,NEGATIVE,False,Bhopal
+326,2024-06-28 08:50,govtcritic99738,Twitter,Health,Government hospital toilets are in a disgusting state. No hygiene whatsoever.,NEGATIVE,False,Delhi
+338,2024-09-21 18:43,ground_reality151,Twitter,Transport,"The new metro line has completely changed how I commute. Fast, clean, and affordable.",POSITIVE,False,Surat
+90,2024-07-14 12:42,proudindian_88508,Twitter,Taxes,GST exemption for small traders under 40 lakhs is a very sensible policy.,POSITIVE,False,Kolkata
+425,2024-03-17 11:25,hopeful_citizen913,Government Portal,Transport,Bus depot workers are on strike again. No information to commuters. Total mismanagement.,NEGATIVE,False,Lucknow
+211,2024-10-25 15:05,tax_payer_india457,Twitter,Education,Navodaya Vidyalayas continue to be one of the best things the government ever built. (Reporting from Pune),POSITIVE,False,Surat
+208,2024-04-23 07:08,teacher_truth157,Survey Form,Transport,Metro rail phase 3 Environmental Impact Assessment is currently open for public comment.,NEUTRAL,False,Bhopal
+434,2024-03-09 20:32,angry_voter_2024913,Government Portal,Taxes,The new GST portal is much easier to use compared to the old system. Good improvement. (Reporting from Hyderabad),POSITIVE,False,Kolkata
+461,2024-07-20 21:49,aam_aadmi_voice469,Twitter,Taxes,Income tax officers demand cash to process legitimate refunds. Where is the accountability? (Reporting from Bhopal),NEGATIVE,False,Indore
+152,2024-03-11 01:18,teacher_truth713,Reddit,Transport,The new flyover has a toll booth but no road connecting to it. Visionary planning.,NEGATIVE,True,Nagpur
+477,2024-06-26 15:34,hopeful_citizen825,Twitter,Taxes,Income tax officers demand cash to process legitimate refunds. Where is the accountability?,NEGATIVE,False,Surat
+32,2024-04-14 21:40,realitycheckIN518,Survey Form,Education,Mid-day meal was raw and inedible today. Kids left hungry. Who is monitoring this?,NEGATIVE,False,Jaipur
+239,2024-06-02 05:36,hopeful_citizen581,Survey Form,Education,Government school building is crumbling. Rain comes through the roof during class.,NEGATIVE,False,Visakhapatnam
+42,2024-12-05 03:46,public_pulse520,Facebook,Transport,"Railway station has no proper waiting area, no water, and no working toilets.",NEGATIVE,False,Kochi
+96,2024-05-03 15:58,urban_observer147,Reddit,Education,The sports facilities added to government schools are excellent. Children are thriving.,POSITIVE,False,Surat
+481,2024-09-21 19:51,realitycheckIN292,Government Portal,Education,Government school building is crumbling. Rain comes through the roof during class.,NEGATIVE,False,Jaipur
+422,2024-06-18 15:29,health_worker_india368,Facebook,Transport,They built a footpath and it collapsed in the first rain. Engineering marvel.,NEGATIVE,True,Nagpur
+328,2024-12-17 07:10,health_worker_india76,Twitter,Health,Amazing how the government finds crores for health schemes but zero for actual medicine stock.,NEGATIVE,True,Lucknow
+421,2024-08-07 05:00,voice_of_voter253,Reddit,Education,No textbooks delivered even 3 months into the academic year. Criminal negligence.,NEGATIVE,False,Kochi
+27,2024-04-30 12:07,urban_observer253,Government Portal,Education,Government school teachers in our block are actually teaching well now. Proud parents.,POSITIVE,False,Delhi
+218,2024-12-10 22:55,angry_voter_2024251,Twitter,Education,The mid-day meal program has significantly improved school attendance in our village.,POSITIVE,False,Chandigarh
+279,2024-01-01 13:12,proudindian_88904,Facebook,Health,"Wonderful, the government hospital got a new paint job. Shame the medicines are still missing.",NEGATIVE,True,Hyderabad
+263,2024-06-27 11:54,health_worker_india633,Reddit,Transport,The road we pay toll on is in worse condition than a dirt track. Daylight robbery.,NEGATIVE,False,Lucknow
+240,2024-12-18 23:05,tax_payer_india764,Facebook,Transport,Traffic signals on the main road have been broken for 3 months. Accidents happening daily.,NEGATIVE,False,Delhi
+2,2024-10-14 06:45,rural_voice_in430,Reddit,Health,"Got my surgery done at the government hospital. Zero cost, great care. Thank you. (Reporting from Mumbai)",POSITIVE,False,Surat
+156,2024-07-03 02:33,rural_voice_in520,Government Portal,Education,The Right to Education Act review is currently underway at the national level.,NEUTRAL,False,Visakhapatnam
+377,2024-03-28 10:22,health_worker_india979,Government Portal,Health,The ambulance response time has improved drastically. Government is doing a great job here.,POSITIVE,False,Jaipur
+366,2024-02-22 12:32,urban_observer314,Reddit,Education,No textbooks delivered even 3 months into the academic year. Criminal negligence.,NEGATIVE,False,Bengaluru
+25,2024-09-06 04:12,public_pulse223,Twitter,Taxes,Income tax officers demand cash to process legitimate refunds. Where is the accountability?,NEGATIVE,False,Visakhapatnam
+21,2024-07-29 14:55,angry_voter_2024690,Twitter,Education,The sports facilities added to government schools are excellent. Children are thriving.,POSITIVE,False,Delhi
+261,2024-08-07 12:00,frustrated_taxpayer211,Facebook,Taxes,Tax refund stuck for 2 years. Called 10 times. Written 5 letters. Nothing moves.,NEGATIVE,False,Bengaluru
+440,2024-07-14 11:37,urban_observer101,Survey Form,Health,Health department released its annual report. Mixed results across districts. (Reporting from Nagpur),NEUTRAL,False,Kolkata
+63,2024-05-05 02:17,health_worker_india250,Survey Form,Taxes,They audit small traders aggressively but let big companies off with nothing. Two systems of justice.,NEGATIVE,False,Chandigarh
+496,2024-03-19 19:18,voice_of_voter420,Facebook,Education,The exam results are out but certificates are delayed for 8 months. Unacceptable.,NEGATIVE,False,Chennai
+216,2024-10-05 13:34,daily_commuter844,Reddit,Health,New MBBS seats have been added to government medical colleges this year.,NEUTRAL,False,Ahmedabad
+215,2024-03-01 05:34,daily_commuter542,Reddit,Taxes,Income tax officers demand cash to process legitimate refunds. Where is the accountability? (Reporting from Bhopal),NEGATIVE,False,Ahmedabad
+84,2024-12-23 15:07,citizen_raj997,Government Portal,Transport,No buses after 8pm in our area. Women cannot travel safely because of this.,NEGATIVE,False,Ahmedabad
+483,2024-01-12 05:06,public_pulse276,Reddit,Education,"Teachers in government school spend half the day on election duty, not teaching. (Reporting from Visakhapatnam)",NEGATIVE,False,Surat
+189,2024-10-30 10:32,tax_payer_india546,Survey Form,Transport,The new flyover has a toll booth but no road connecting to it. Visionary planning. (Reporting from Lucknow),NEGATIVE,True,Lucknow
+493,2024-06-14 23:29,realitycheckIN889,Government Portal,Taxes,Tax refund was processed in just 10 days this year. Very impressed with the ITR system.,POSITIVE,False,Visakhapatnam
+65,2024-09-07 17:48,hopeful_citizen708,Survey Form,Health,Government hospital toilets are in a disgusting state. No hygiene whatsoever. (Reporting from Kochi),NEGATIVE,False,Nagpur
+409,2024-01-23 09:57,frustrated_taxpayer329,Government Portal,Transport,Bus depot workers are on strike again. No information to commuters. Total mismanagement.,NEGATIVE,False,Bengaluru
+300,2024-04-10 23:57,rural_voice_in779,Reddit,Taxes,Small business is shutting down because of compliance burden. Every month a new form.,NEGATIVE,False,Kolkata
+207,2024-02-01 21:07,health_worker_india315,Reddit,Health,They asked us to buy medicines from outside even in a government hospital. Corruption!,NEGATIVE,False,Chandigarh
+195,2024-04-25 09:49,public_pulse722,Reddit,Education,Education minister gave a great speech about literacy. The school in his own constituency has no teacher.,NEGATIVE,True,Nagpur
+319,2024-03-30 15:02,policy_watch58,Reddit,Education,They say education is a priority. Funny way to show it with a 40% budget cut.,NEGATIVE,True,Ahmedabad
+298,2024-01-24 12:04,health_worker_india887,Facebook,Health,Waited 6 hours at the government hospital and still didn't see a doctor. Pathetic system. (Reporting from Indore),NEGATIVE,False,Lucknow
+439,2024-10-03 00:57,student_speaks535,Survey Form,Health,The ambulance response time has improved drastically. Government is doing a great job here.,POSITIVE,False,Bhopal
+347,2024-09-21 11:52,angry_voter_2024528,Reddit,Taxes,GST on medicines is morally wrong. Taxing sick people. Shameful policy.,NEGATIVE,False,Bengaluru
+220,2024-09-23 07:26,public_pulse282,Twitter,Transport,Traffic signals on the main road have been broken for 3 months. Accidents happening daily.,NEGATIVE,False,Visakhapatnam
+116,2024-09-08 22:58,health_worker_india76,Twitter,Taxes,"Great, another amnesty scheme for big defaulters. Small honest taxpayers can keep suffering.",NEGATIVE,True,Patna
+472,2024-09-23 14:26,aam_aadmi_voice189,Twitter,Taxes,Income tax department released new guidelines for NRI tax filing.,NEUTRAL,False,Kolkata
+30,2024-02-05 07:23,public_pulse162,Survey Form,Education,"Teachers in government school spend half the day on election duty, not teaching.",NEGATIVE,False,Visakhapatnam
+121,2024-10-14 10:42,govtcritic99421,Facebook,Transport,Brilliant idea painting road lines that disappear in a week. Saves paint budget for next year. (Reporting from Visakhapatnam),NEGATIVE,True,Kochi
+314,2024-02-14 08:24,proudindian_88430,Reddit,Transport,Bus depot workers are on strike again. No information to commuters. Total mismanagement.,NEGATIVE,False,Indore
+391,2024-10-28 03:49,health_worker_india469,Government Portal,Taxes,GST exemption for small traders under 40 lakhs is a very sensible policy.,POSITIVE,False,Indore
+272,2024-01-31 18:22,rural_voice_in288,Government Portal,Education,Mid-day meal was raw and inedible today. Kids left hungry. Who is monitoring this?,NEGATIVE,False,Visakhapatnam
+122,2024-02-23 18:32,frustrated_taxpayer159,Survey Form,Health,Amazing how the government finds crores for health schemes but zero for actual medicine stock.,NEGATIVE,True,Ahmedabad
+331,2024-10-10 23:59,rural_voice_in272,Facebook,Transport,The flyover project started 4 years ago. Still incomplete. Money swallowed somewhere.,NEGATIVE,False,Lucknow
+365,2024-01-08 10:48,tax_payer_india196,Twitter,Health,"Got my surgery done at the government hospital. Zero cost, great care. Thank you.",POSITIVE,False,Mumbai
+417,2024-02-13 09:13,news_follower_in217,Survey Form,Health,The ICU at district hospital has been non-functional for 3 weeks. People are dying.,NEGATIVE,False,Indore
+24,2024-07-24 01:10,daily_commuter3,Survey Form,Education,Navodaya Vidyalayas continue to be one of the best things the government ever built.,POSITIVE,False,Jaipur
+17,2024-10-03 23:44,frustrated_taxpayer731,Facebook,Transport,The road we pay toll on is in worse condition than a dirt track. Daylight robbery.,NEGATIVE,False,Chandigarh
+241,2024-11-10 19:25,voice_of_voter31,Facebook,Health,No medicines in the government dispensary again. Third time this month. Absolute failure.,NEGATIVE,False,Surat
+374,2024-01-02 00:42,policy_watch929,Twitter,Taxes,"Great, another amnesty scheme for big defaulters. Small honest taxpayers can keep suffering.",NEGATIVE,True,Nagpur
+178,2024-11-29 06:49,urban_observer427,Government Portal,Health,"Oh great, the health minister inaugurated another building. Too bad there are no doctors inside! (Reporting from Jaipur)",NEGATIVE,True,Mumbai
+187,2024-06-22 17:23,proudindian_88204,Government Portal,Education,They say education is a priority. Funny way to show it with a 40% budget cut.,NEGATIVE,True,Indore
+334,2024-08-29 15:57,realitycheckIN94,Government Portal,Taxes,The tax department says they are going digital. The only digital thing is the fine notice.,NEGATIVE,True,Chandigarh
+190,2024-02-26 13:37,public_pulse816,Twitter,Taxes,The tax department says they are going digital. The only digital thing is the fine notice.,NEGATIVE,True,Nagpur
+171,2024-12-24 20:11,news_follower_in521,Reddit,Transport,They built a footpath and it collapsed in the first rain. Engineering marvel.,NEGATIVE,True,Chennai
+106,2024-06-16 19:14,policy_watch651,Survey Form,Health,Health department released its annual report. Mixed results across districts. (Reporting from Visakhapatnam),NEUTRAL,False,Lucknow
+138,2024-01-22 14:58,urban_observer668,Reddit,Taxes,Income tax officers demand cash to process legitimate refunds. Where is the accountability?,NEGATIVE,False,Patna
+254,2024-10-01 19:40,policy_watch112,Reddit,Taxes,The TDS deducted from my salary does not show in Form 26AS. Complete system failure.,NEGATIVE,False,Bhopal
+443,2024-10-26 08:16,rural_voice_in434,Government Portal,Taxes,"Property tax assessment is completely arbitrary. Same house, different colonies, double the rate.",NEGATIVE,False,Bhopal
+467,2024-08-31 20:06,health_worker_india763,Facebook,Taxes,Tax refund was processed in just 10 days this year. Very impressed with the ITR system. (Reporting from Jaipur),POSITIVE,False,Jaipur
+369,2024-11-23 08:49,rural_voice_in639,Twitter,Education,The mid-day meal program has significantly improved school attendance in our village.,POSITIVE,False,Delhi
+31,2024-06-02 21:06,proudindian_88271,Twitter,Transport,Bus depot workers are on strike again. No information to commuters. Total mismanagement. (Reporting from Visakhapatnam),NEGATIVE,False,Chennai
+362,2024-06-24 13:36,health_worker_india147,Facebook,Transport,Traffic signals on the main road have been broken for 3 months. Accidents happening daily. (Reporting from Pune),NEGATIVE,False,Hyderabad
+237,2024-01-22 07:13,urban_observer487,Facebook,Transport,State buses are always overloaded and 2 hours late. Absolute chaos every morning.,NEGATIVE,False,Delhi
+82,2024-02-29 12:55,tax_payer_india845,Twitter,Health,They asked us to buy medicines from outside even in a government hospital. Corruption!,NEGATIVE,False,Visakhapatnam
+197,2024-05-27 22:05,news_follower_in947,Survey Form,Taxes,"Filing GST is so simple now. Only takes 3 days, 2 accountants and a prayer to the server gods.",NEGATIVE,True,Jaipur
+145,2024-10-03 23:56,tax_payer_india39,Facebook,Transport,Love how they announce road repair every monsoon and then do nothing. Classic tradition.,NEGATIVE,True,Kolkata
+38,2024-06-28 09:52,hopeful_citizen229,Twitter,Taxes,"Great, another amnesty scheme for big defaulters. Small honest taxpayers can keep suffering. (Reporting from Surat)",NEGATIVE,True,Pune
+499,2024-12-01 15:59,policy_watch480,Twitter,Education,Scholarship portal keeps crashing. Students have been waiting 6 months for their money. (Reporting from Pune),NEGATIVE,False,Bhopal
+35,2024-01-21 11:13,hopeful_citizen683,Twitter,Education,"Government school has no blackboard, no chalk, no teacher. Just empty classrooms.",NEGATIVE,False,Bhopal
+252,2024-05-29 22:04,student_speaks690,Survey Form,Taxes,"Filing GST is so simple now. Only takes 3 days, 2 accountants and a prayer to the server gods.",NEGATIVE,True,Kolkata
+413,2024-01-09 12:43,govtcritic99548,Twitter,Taxes,GST on medicines is morally wrong. Taxing sick people. Shameful policy.,NEGATIVE,False,Bengaluru
+175,2024-09-22 04:19,aam_aadmi_voice166,Facebook,Education,"Government school has no blackboard, no chalk, no teacher. Just empty classrooms.",NEGATIVE,False,Ahmedabad
+246,2024-07-17 02:46,rural_voice_in927,Reddit,Transport,Love how they announce road repair every monsoon and then do nothing. Classic tradition.,NEGATIVE,True,Indore
+158,2024-06-19 04:02,news_follower_in560,Facebook,Education,The Right to Education Act review is currently underway at the national level.,NEUTRAL,False,Hyderabad
+332,2024-09-08 04:03,news_follower_in4,Survey Form,Education,The sports facilities added to government schools are excellent. Children are thriving.,POSITIVE,False,Bengaluru
+174,2024-12-14 16:22,proudindian_88900,Government Portal,Education,Fantastic that they painted 'Smart Classroom' on the door. Shame there is no electricity inside.,NEGATIVE,True,Hyderabad
+53,2024-01-04 11:19,daily_commuter874,Survey Form,Health,Amazing how the government finds crores for health schemes but zero for actual medicine stock.,NEGATIVE,True,Visakhapatnam
+34,2024-02-27 02:56,proudindian_88559,Twitter,Taxes,GST on medicines is morally wrong. Taxing sick people. Shameful policy.,NEGATIVE,False,Bhopal
+139,2024-06-24 22:05,tax_payer_india662,Reddit,Taxes,GST return filing portal crashed on the last day again. Fine imposed even though it was government failure.,NEGATIVE,False,Delhi
+115,2024-12-03 16:19,health_worker_india659,Twitter,Taxes,GST return filing portal crashed on the last day again. Fine imposed even though it was government failure.,NEGATIVE,False,Delhi
+85,2024-02-17 07:53,govtcritic99473,Twitter,Education,"Government school has no blackboard, no chalk, no teacher. Just empty classrooms.",NEGATIVE,False,Kolkata
+418,2024-05-09 06:07,aam_aadmi_voice688,Government Portal,Education,The new digital classrooms in government schools are fantastic. Kids love them.,POSITIVE,False,Delhi
+278,2024-12-15 01:02,govtcritic99642,Survey Form,Education,The exam results are out but certificates are delayed for 8 months. Unacceptable.,NEGATIVE,False,Mumbai
+414,2024-09-14 03:18,public_pulse622,Twitter,Health,The government has announced a new health policy. Details are yet to be released.,NEUTRAL,False,Lucknow
+478,2024-01-01 16:52,proudindian_88353,Facebook,Transport,No buses after 8pm in our area. Women cannot travel safely because of this. (Reporting from Mumbai),NEGATIVE,False,Nagpur
+147,2024-08-17 07:34,hopeful_citizen317,Survey Form,Education,Education minister gave a great speech about literacy. The school in his own constituency has no teacher.,NEGATIVE,True,Pune
+361,2024-11-13 02:30,frustrated_taxpayer513,Twitter,Taxes,GST exemption for small traders under 40 lakhs is a very sensible policy.,POSITIVE,False,Chandigarh
+107,2024-06-04 15:07,govtcritic99241,Government Portal,Taxes,The new GST portal is much easier to use compared to the old system. Good improvement.,POSITIVE,False,Kolkata
+59,2024-03-24 09:06,urban_observer27,Facebook,Taxes,Income tax department released new guidelines for NRI tax filing. (Reporting from Chennai),NEUTRAL,False,Chandigarh
+430,2024-11-30 02:33,realitycheckIN386,Reddit,Education,Government school building is crumbling. Rain comes through the roof during class.,NEGATIVE,False,Indore
+268,2024-04-22 09:02,realitycheckIN231,Government Portal,Taxes,Received income tax notice for taxes already paid. No response from department for 4 months.,NEGATIVE,False,Lucknow
+134,2024-11-26 04:15,govtcritic99150,Facebook,Education,Education minister gave a great speech about literacy. The school in his own constituency has no teacher.,NEGATIVE,True,Pune
+301,2024-11-21 22:56,citizen_raj974,Facebook,Health,"Oh great, the health minister inaugurated another building. Too bad there are no doctors inside! (Reporting from Bhopal)",NEGATIVE,True,Mumbai
+479,2024-09-01 09:00,student_speaks818,Facebook,Health,Health department released its annual report. Mixed results across districts.,NEUTRAL,False,Ahmedabad
+36,2024-05-01 05:51,aam_aadmi_voice903,Survey Form,Taxes,"Filing GST is so simple now. Only takes 3 days, 2 accountants and a prayer to the server gods.",NEGATIVE,True,Mumbai
+267,2024-09-15 20:31,student_speaks702,Survey Form,Education,The sports facilities added to government schools are excellent. Children are thriving.,POSITIVE,False,Kochi
+199,2024-01-27 03:26,voice_of_voter735,Survey Form,Education,The new digital classrooms in government schools are fantastic. Kids love them.,POSITIVE,False,Chennai
+88,2024-10-23 21:31,proudindian_88458,Government Portal,Health,Doctors at the PHC are always absent. What is the point of these health centers?,NEGATIVE,False,Nagpur
+39,2024-05-22 11:41,tax_payer_india410,Government Portal,Taxes,Received income tax notice for taxes already paid. No response from department for 4 months.,NEGATIVE,False,Patna
+276,2024-09-06 10:37,citizen_raj890,Twitter,Transport,Metro rail phase 3 Environmental Impact Assessment is currently open for public comment.,NEUTRAL,False,Surat
+72,2024-03-01 17:48,student_speaks621,Government Portal,Health,The new vaccination drive has been very well managed. Smooth and efficient. (Reporting from Ahmedabad),POSITIVE,False,Ahmedabad
+143,2024-06-17 04:42,tax_payer_india96,Survey Form,Health,The ICU at district hospital has been non-functional for 3 weeks. People are dying.,NEGATIVE,False,Indore
+271,2024-03-01 07:13,urban_observer706,Facebook,Transport,State buses are always overloaded and 2 hours late. Absolute chaos every morning.,NEGATIVE,False,Kochi
+400,2024-12-20 21:03,daily_commuter397,Survey Form,Education,Education department is conducting a school mapping survey across all districts. (Reporting from Lucknow),NEUTRAL,False,Patna
+311,2024-03-06 02:57,voice_of_voter126,Twitter,Health,Really impressed by the health camps organized this month. Free checkups for everyone! (Reporting from Surat),POSITIVE,False,Surat
+491,2024-10-12 20:48,news_follower_in825,Survey Form,Health,"Got my surgery done at the government hospital. Zero cost, great care. Thank you.",POSITIVE,False,Pune
+336,2024-12-07 03:05,news_follower_in828,Government Portal,Transport,Traffic signals on the main road have been broken for 3 months. Accidents happening daily.,NEGATIVE,False,Kochi
+397,2024-12-07 22:26,rural_voice_in293,Survey Form,Health,Health department released its annual report. Mixed results across districts.,NEUTRAL,False,Mumbai
+210,2024-02-01 17:57,tax_payer_india208,Government Portal,Taxes,The TDS deducted from my salary does not show in Form 26AS. Complete system failure. (Reporting from Chennai),NEGATIVE,False,Visakhapatnam
+61,2024-02-05 16:41,voice_of_voter13,Survey Form,Health,The ICU at district hospital has been non-functional for 3 weeks. People are dying.,NEGATIVE,False,Nagpur
+78,2024-11-02 01:56,student_speaks753,Facebook,Transport,Drainage work dug up the road 6 months ago and was never completed. Waterlogging everywhere.,NEGATIVE,False,Jaipur
+161,2024-06-18 08:07,news_follower_in448,Survey Form,Education,"Government school has no blackboard, no chalk, no teacher. Just empty classrooms.",NEGATIVE,False,Surat
+256,2024-10-12 18:44,urban_observer227,Survey Form,Health,The new vaccination drive has been very well managed. Smooth and efficient. (Reporting from Indore),POSITIVE,False,Bhopal
+91,2024-01-08 23:09,student_speaks892,Reddit,Transport,Highway is 'under construction' for 7 years now. Must be the slowest construction in history. (Reporting from Surat),NEGATIVE,True,Bengaluru
+488,2024-12-07 06:07,hopeful_citizen649,Survey Form,Health,Doctors at the PHC are always absent. What is the point of these health centers? (Reporting from Delhi),NEGATIVE,False,Patna
+379,2024-03-22 03:26,urban_observer495,Government Portal,Education,The mid-day meal program has significantly improved school attendance in our village.,POSITIVE,False,Surat
+464,2024-07-24 08:28,aam_aadmi_voice586,Reddit,Taxes,Income tax department released new guidelines for NRI tax filing.,NEUTRAL,False,Ahmedabad
+367,2024-09-23 19:33,voice_of_voter445,Reddit,Health,Doctors at the PHC are always absent. What is the point of these health centers?,NEGATIVE,False,Patna
+448,2024-07-15 12:39,tax_payer_india294,Government Portal,Transport,State buses are always overloaded and 2 hours late. Absolute chaos every morning.,NEGATIVE,False,Delhi
+455,2024-04-22 21:44,hopeful_citizen820,Facebook,Taxes,The new GST portal is much easier to use compared to the old system. Good improvement.,POSITIVE,False,Kochi
+126,2024-10-17 19:05,angry_voter_2024160,Reddit,Transport,"Electric buses in the city are excellent. Quiet, smooth, and no pollution.",POSITIVE,False,Delhi
+465,2024-07-14 06:09,proudindian_88485,Twitter,Health,Ministry of Health held a review meeting today on hospital infrastructure.,NEUTRAL,False,Hyderabad
+342,2024-10-15 03:50,public_pulse889,Government Portal,Education,Scholarship portal keeps crashing. Students have been waiting 6 months for their money.,NEGATIVE,False,Bhopal
+411,2024-02-06 23:43,proudindian_8825,Survey Form,Education,Government school building is crumbling. Rain comes through the roof during class.,NEGATIVE,False,Patna
+64,2024-06-30 08:21,realitycheckIN902,Government Portal,Transport,The flyover construction was completed on time for once. Great project management. (Reporting from Pune),POSITIVE,False,Jaipur
+11,2024-02-16 01:55,govtcritic99157,Reddit,Taxes,"Property tax assessment is completely arbitrary. Same house, different colonies, double the rate.",NEGATIVE,False,Kochi
+357,2024-08-02 12:24,angry_voter_2024598,Government Portal,Health,New MBBS seats have been added to government medical colleges this year.,NEUTRAL,False,Pune
+399,2024-01-17 11:52,health_worker_india105,Government Portal,Health,New MBBS seats have been added to government medical colleges this year. (Reporting from Visakhapatnam),NEUTRAL,False,Visakhapatnam
+144,2024-06-23 15:12,hopeful_citizen141,Reddit,Transport,"Electric buses in the city are excellent. Quiet, smooth, and no pollution. (Reporting from Pune)",POSITIVE,False,Bengaluru
+118,2024-12-01 20:56,rural_voice_in739,Reddit,Transport,The road we pay toll on is in worse condition than a dirt track. Daylight robbery. (Reporting from Chennai),NEGATIVE,False,Kochi
+129,2024-03-11 08:18,voice_of_voter123,Twitter,Health,The new vaccination drive has been very well managed. Smooth and efficient.,POSITIVE,False,Nagpur
+51,2024-10-03 02:08,proudindian_88237,Survey Form,Transport,"Railway station has no proper waiting area, no water, and no working toilets.",NEGATIVE,False,Kolkata
+389,2024-01-24 05:31,proudindian_88842,Survey Form,Transport,"Railway station has no proper waiting area, no water, and no working toilets.",NEGATIVE,False,Chennai
+449,2024-05-26 06:02,ground_reality523,Government Portal,Education,The exam results are out but certificates are delayed for 8 months. Unacceptable. (Reporting from Indore),NEGATIVE,False,Ahmedabad
+302,2024-05-01 13:31,angry_voter_2024996,Reddit,Taxes,The tax department says they are going digital. The only digital thing is the fine notice. (Reporting from Indore),NEGATIVE,True,Jaipur
+153,2024-03-17 17:46,ground_reality541,Survey Form,Taxes,Received income tax notice for taxes already paid. No response from department for 4 months. (Reporting from Pune),NEGATIVE,False,Chennai
+456,2024-05-14 07:18,policy_watch409,Facebook,Transport,"Roads in our area have not been repaired in 5 years. Full of craters, not potholes.",NEGATIVE,False,Bengaluru
+457,2024-04-03 23:43,frustrated_taxpayer511,Reddit,Education,No textbooks delivered even 3 months into the academic year. Criminal negligence. (Reporting from Jaipur),NEGATIVE,False,Ahmedabad
+355,2024-02-25 15:04,voice_of_voter284,Facebook,Transport,No buses after 8pm in our area. Women cannot travel safely because of this.,NEGATIVE,False,Jaipur
+182,2024-07-15 19:26,hopeful_citizen986,Reddit,Education,The mid-day meal program has significantly improved school attendance in our village.,POSITIVE,False,Patna
+431,2024-09-03 19:00,tax_payer_india904,Reddit,Taxes,The TDS deducted from my salary does not show in Form 26AS. Complete system failure.,NEGATIVE,False,Surat
+386,2024-02-16 19:39,public_pulse912,Government Portal,Taxes,Income tax officers demand cash to process legitimate refunds. Where is the accountability?,NEGATIVE,False,Visakhapatnam
+60,2024-02-22 22:49,public_pulse871,Government Portal,Taxes,"Filing GST is so simple now. Only takes 3 days, 2 accountants and a prayer to the server gods. (Reporting from Ahmedabad)",NEGATIVE,True,Chennai
+489,2024-07-21 07:00,angry_voter_2024596,Survey Form,Health,The new vaccination drive has been very well managed. Smooth and efficient.,POSITIVE,False,Kolkata
+381,2024-06-09 00:45,tax_payer_india786,Government Portal,Taxes,Received income tax notice for taxes already paid. No response from department for 4 months.,NEGATIVE,False,Ahmedabad
+317,2024-01-29 07:36,daily_commuter364,Reddit,Education,The new digital classrooms in government schools are fantastic. Kids love them.,POSITIVE,False,Hyderabad
+408,2024-02-28 12:16,rural_voice_in742,Facebook,Health,New MBBS seats have been added to government medical colleges this year.,NEUTRAL,False,Mumbai
+5,2024-11-17 19:56,news_follower_in592,Reddit,Health,"Sure, the hospital has 5 star rated toilets on paper. In reality, bring your own water. (Reporting from Lucknow)",NEGATIVE,True,Bengaluru
+275,2024-07-31 12:28,policy_watch649,Twitter,Taxes,GST exemption for small traders under 40 lakhs is a very sensible policy.,POSITIVE,False,Chandigarh
+333,2024-02-19 00:13,aam_aadmi_voice654,Facebook,Transport,Brilliant idea painting road lines that disappear in a week. Saves paint budget for next year.,NEGATIVE,True,Bengaluru
+463,2024-11-09 10:23,aam_aadmi_voice511,Survey Form,Education,Mid-day meal was raw and inedible today. Kids left hungry. Who is monitoring this?,NEGATIVE,False,Pune
+169,2024-09-08 06:07,proudindian_88874,Twitter,Taxes,They audit small traders aggressively but let big companies off with nothing. Two systems of justice.,NEGATIVE,False,Surat
+468,2024-05-11 11:01,student_speaks125,Facebook,Transport,Bus depot workers are on strike again. No information to commuters. Total mismanagement.,NEGATIVE,False,Pune
+471,2024-11-30 09:45,realitycheckIN620,Survey Form,Health,"Got my surgery done at the government hospital. Zero cost, great care. Thank you.",POSITIVE,False,Jaipur
+420,2024-04-09 10:31,health_worker_india337,Government Portal,Transport,The flyover project started 4 years ago. Still incomplete. Money swallowed somewhere. (Reporting from Bengaluru),NEGATIVE,False,Lucknow
+253,2024-07-12 02:28,ground_reality491,Government Portal,Transport,Traffic signals on the main road have been broken for 3 months. Accidents happening daily.,NEGATIVE,False,Chandigarh
+100,2024-09-11 09:49,hopeful_citizen622,Facebook,Health,Waited 6 hours at the government hospital and still didn't see a doctor. Pathetic system.,NEGATIVE,False,Ahmedabad
+424,2024-10-23 12:49,urban_observer218,Twitter,Health,"Oh great, the health minister inaugurated another building. Too bad there are no doctors inside!",NEGATIVE,True,Visakhapatnam
+3,2024-03-22 22:27,voice_of_voter285,Reddit,Transport,Love how they announce road repair every monsoon and then do nothing. Classic tradition.,NEGATIVE,True,Pune
+345,2024-09-08 22:43,govtcritic99996,Reddit,Transport,The new flyover has a toll booth but no road connecting to it. Visionary planning.,NEGATIVE,True,Kolkata
+323,2024-12-18 09:08,aam_aadmi_voice747,Twitter,Education,State board exams will be conducted in March as announced by the education department.,NEUTRAL,False,Chandigarh
+14,2024-09-16 19:12,proudindian_88383,Reddit,Health,Brilliant initiative making patients wait 8 hours. Really building that patient endurance.,NEGATIVE,True,Visakhapatnam
+315,2024-07-14 22:22,teacher_truth558,Survey Form,Education,Teacher recruitment has been frozen for 5 years. Schools running on skeleton staff.,NEGATIVE,False,Bhopal
+159,2024-03-10 02:45,health_worker_india38,Facebook,Taxes,"Great, another amnesty scheme for big defaulters. Small honest taxpayers can keep suffering.",NEGATIVE,True,Pune
+358,2024-11-22 15:58,news_follower_in520,Facebook,Transport,The highway authority released traffic diversion instructions for the bypass construction.,NEUTRAL,False,Hyderabad
+310,2024-07-09 21:40,policy_watch597,Government Portal,Health,"Got my surgery done at the government hospital. Zero cost, great care. Thank you. (Reporting from Chandigarh)",POSITIVE,False,Jaipur
+495,2024-05-02 10:46,policy_watch675,Government Portal,Education,Education minister gave a great speech about literacy. The school in his own constituency has no teacher.,NEGATIVE,True,Chandigarh
+344,2024-01-26 23:30,realitycheckIN919,Facebook,Health,They asked us to buy medicines from outside even in a government hospital. Corruption!,NEGATIVE,False,Mumbai
+16,2024-09-29 04:08,teacher_truth970,Government Portal,Health,The government has announced a new health policy. Details are yet to be released.,NEUTRAL,False,Hyderabad
+348,2024-10-18 00:11,frustrated_taxpayer897,Reddit,Transport,Transport minister held a review of toll collection data across national highways. (Reporting from Indore),NEUTRAL,False,Delhi
+66,2024-07-26 22:15,public_pulse680,Government Portal,Taxes,Finance ministry released the tax collection data for Q3. Numbers are being reviewed.,NEUTRAL,False,Bhopal
+265,2024-12-21 20:59,aam_aadmi_voice569,Reddit,Education,Government school building is crumbling. Rain comes through the roof during class. (Reporting from Visakhapatnam),NEGATIVE,False,Nagpur
+500,2024-05-16 16:02,policy_watch855,Facebook,Taxes,"Excellent idea adding a new tax on top of the existing tax. Tax on tax, very innovative.",NEGATIVE,True,Bengaluru
+264,2024-02-29 05:23,proudindian_88524,Survey Form,Health,New MBBS seats have been added to government medical colleges this year. (Reporting from Lucknow),NEUTRAL,False,Kochi
+429,2024-02-22 22:33,realitycheckIN855,Facebook,Taxes,"Excellent idea adding a new tax on top of the existing tax. Tax on tax, very innovative. (Reporting from Patna)",NEGATIVE,True,Visakhapatnam
+150,2024-09-19 04:53,student_speaks94,Reddit,Transport,State bus service has added new routes to remote areas. Very helpful for daily workers.,POSITIVE,False,Surat
+435,2024-07-26 19:36,citizen_raj900,Facebook,Health,The ambulance response time has improved drastically. Government is doing a great job here.,POSITIVE,False,Bengaluru
+10,2024-05-06 23:35,rural_voice_in270,Government Portal,Taxes,Small business is shutting down because of compliance burden. Every month a new form. (Reporting from Kolkata),NEGATIVE,False,Kochi
+73,2024-10-28 13:19,urban_observer636,Twitter,Taxes,Small business is shutting down because of compliance burden. Every month a new form.,NEGATIVE,False,Chennai
+380,2024-12-16 23:57,proudindian_88495,Survey Form,Education,No textbooks delivered even 3 months into the academic year. Criminal negligence.,NEGATIVE,False,Chennai
+133,2024-06-22 07:21,aam_aadmi_voice79,Government Portal,Taxes,Income tax officers demand cash to process legitimate refunds. Where is the accountability? (Reporting from Lucknow),NEGATIVE,False,Chennai
+105,2024-03-04 14:23,realitycheckIN599,Survey Form,Health,The government has announced a new health policy. Details are yet to be released.,NEUTRAL,False,Bhopal
+109,2024-04-30 11:06,news_follower_in558,Facebook,Transport,The flyover construction was completed on time for once. Great project management. (Reporting from Surat),POSITIVE,False,Delhi
+108,2024-03-20 13:41,govtcritic99854,Survey Form,Taxes,Income tax officers demand cash to process legitimate refunds. Where is the accountability?,NEGATIVE,False,Kochi
+170,2024-12-15 10:42,news_follower_in727,Twitter,Education,They say education is a priority. Funny way to show it with a 40% budget cut.,NEGATIVE,True,Visakhapatnam
+412,2024-10-12 02:36,hopeful_citizen933,Facebook,Health,The new government hospital in our district is excellent. Doctors are attentive and medicine is free. (Reporting from Jaipur),POSITIVE,False,Kochi
+242,2024-08-09 05:43,urban_observer677,Survey Form,Taxes,Income tax officers demand cash to process legitimate refunds. Where is the accountability?,NEGATIVE,False,Bengaluru
+231,2024-11-24 01:33,angry_voter_2024860,Twitter,Education,Education department is conducting a school mapping survey across all districts. (Reporting from Visakhapatnam),NEUTRAL,False,Delhi
+307,2024-12-26 22:38,angry_voter_2024221,Facebook,Transport,State buses are always overloaded and 2 hours late. Absolute chaos every morning. (Reporting from Lucknow),NEGATIVE,False,Kolkata
+57,2024-10-03 01:22,hopeful_citizen666,Twitter,Taxes,Received income tax notice for taxes already paid. No response from department for 4 months.,NEGATIVE,False,Delhi
+176,2024-02-10 08:12,rural_voice_in282,Reddit,Transport,Brilliant idea painting road lines that disappear in a week. Saves paint budget for next year.,NEGATIVE,True,Lucknow
+8,2024-11-23 22:35,hopeful_citizen702,Facebook,Education,The sports facilities added to government schools are excellent. Children are thriving.,POSITIVE,False,Delhi
+148,2024-05-24 12:32,tax_payer_india429,Reddit,Transport,Transport minister held a review of toll collection data across national highways.,NEUTRAL,False,Pune
+330,2024-03-25 19:56,student_speaks161,Twitter,Taxes,Direct tax code revision is under discussion. Public consultation process underway.,NEUTRAL,False,Chennai
+304,2024-08-10 21:08,hopeful_citizen299,Facebook,Education,Government school building is crumbling. Rain comes through the roof during class. (Reporting from Delhi),NEGATIVE,False,Patna
+353,2024-12-30 22:41,realitycheckIN434,Survey Form,Education,"Government school has no blackboard, no chalk, no teacher. Just empty classrooms. (Reporting from Lucknow)",NEGATIVE,False,Bhopal
+297,2024-08-01 23:20,realitycheckIN846,Twitter,Health,The ICU at district hospital has been non-functional for 3 weeks. People are dying. (Reporting from Ahmedabad),NEGATIVE,False,Bhopal
+320,2024-11-10 06:51,proudindian_88349,Reddit,Health,Waited 6 hours at the government hospital and still didn't see a doctor. Pathetic system.,NEGATIVE,False,Patna
+398,2024-04-12 08:48,aam_aadmi_voice294,Facebook,Health,The ambulance response time has improved drastically. Government is doing a great job here. (Reporting from Delhi),POSITIVE,False,Kolkata
+192,2024-04-07 00:28,voice_of_voter429,Reddit,Education,Our government school got a computer lab! The computers have been in boxes for 2 years. (Reporting from Chennai),NEGATIVE,True,Kochi
+103,2024-05-11 15:51,public_pulse765,Facebook,Transport,No buses after 8pm in our area. Women cannot travel safely because of this.,NEGATIVE,False,Chennai
+446,2024-07-24 10:51,rural_voice_in629,Twitter,Taxes,GST council will meet next week to discuss rate revision on essential commodities. (Reporting from Indore),NEUTRAL,False,Hyderabad
+23,2024-10-08 03:03,rural_voice_in857,Twitter,Education,Fantastic that they painted 'Smart Classroom' on the door. Shame there is no electricity inside.,NEGATIVE,True,Bengaluru
+226,2024-07-22 07:35,voice_of_voter795,Facebook,Taxes,They simplified taxes so much that my CA had to hire two more assistants to understand them.,NEGATIVE,True,Chandigarh
+75,2024-04-28 09:45,public_pulse720,Survey Form,Taxes,Small business is shutting down because of compliance burden. Every month a new form.,NEGATIVE,False,Bengaluru
+454,2024-05-04 10:49,health_worker_india698,Survey Form,Taxes,They simplified taxes so much that my CA had to hire two more assistants to understand them.,NEGATIVE,True,Mumbai
+180,2024-04-14 10:38,proudindian_88321,Facebook,Health,The district hospital renovation is complete and it looks world class now.,POSITIVE,False,Bhopal
+87,2024-03-10 02:17,student_speaks349,Government Portal,Education,Teacher recruitment has been frozen for 5 years. Schools running on skeleton staff.,NEGATIVE,False,Jaipur
+352,2024-05-17 20:26,tax_payer_india21,Twitter,Education,Our government school got a computer lab! The computers have been in boxes for 2 years.,NEGATIVE,True,Nagpur
+13,2024-03-21 14:00,realitycheckIN996,Government Portal,Transport,Metro rail phase 3 Environmental Impact Assessment is currently open for public comment. (Reporting from Kochi),NEUTRAL,False,Hyderabad
+177,2024-10-24 04:10,ground_reality738,Government Portal,Health,The ambulance never came. My father had to be taken in a private vehicle. Shameful.,NEGATIVE,False,Patna
+165,2024-12-13 05:01,proudindian_88870,Government Portal,Health,The district hospital renovation is complete and it looks world class now.,POSITIVE,False,Surat
+490,2024-12-17 19:21,angry_voter_202462,Facebook,Transport,The highway authority released traffic diversion instructions for the bypass construction. (Reporting from Bengaluru),NEUTRAL,False,Kolkata
+364,2024-11-20 13:25,student_speaks989,Survey Form,Taxes,Finance ministry released the tax collection data for Q3. Numbers are being reviewed. (Reporting from Kochi),NEUTRAL,False,Chandigarh
+395,2024-12-30 23:59,rural_voice_in648,Reddit,Transport,Brilliant idea painting road lines that disappear in a week. Saves paint budget for next year.,NEGATIVE,True,Pune
+217,2024-01-17 21:26,ground_reality785,Twitter,Taxes,They audit small traders aggressively but let big companies off with nothing. Two systems of justice. (Reporting from Chennai),NEGATIVE,False,Ahmedabad
+447,2024-03-15 15:59,ground_reality446,Twitter,Taxes,"Excellent idea adding a new tax on top of the existing tax. Tax on tax, very innovative.",NEGATIVE,True,Bengaluru
+58,2024-11-14 04:15,proudindian_88485,Twitter,Health,"Wonderful, the government hospital got a new paint job. Shame the medicines are still missing.",NEGATIVE,True,Pune
+46,2024-04-25 06:09,citizen_raj48,Reddit,Health,"Wonderful, the government hospital got a new paint job. Shame the medicines are still missing.",NEGATIVE,True,Nagpur
+458,2024-11-12 11:09,govtcritic99123,Twitter,Education,Our government school got a computer lab! The computers have been in boxes for 2 years. (Reporting from Ahmedabad),NEGATIVE,True,Nagpur
+441,2024-02-12 09:38,rural_voice_in419,Facebook,Transport,The flyover project started 4 years ago. Still incomplete. Money swallowed somewhere.,NEGATIVE,False,Pune
+444,2024-07-30 17:50,rural_voice_in495,Reddit,Transport,Highway is 'under construction' for 7 years now. Must be the slowest construction in history.,NEGATIVE,True,Bhopal
+137,2024-05-26 02:41,policy_watch630,Government Portal,Health,Blood bank is always empty. Every patient's family has to arrange blood on their own. (Reporting from Bhopal),NEGATIVE,False,Indore
+37,2024-07-29 21:55,hopeful_citizen274,Reddit,Education,A new curriculum framework has been released for public feedback.,NEUTRAL,False,Chennai
+125,2024-02-16 23:33,frustrated_taxpayer386,Survey Form,Education,Government school building is crumbling. Rain comes through the roof during class. (Reporting from Mumbai),NEGATIVE,False,Surat
+127,2024-08-14 13:17,frustrated_taxpayer774,Government Portal,Health,The ICU at district hospital has been non-functional for 3 weeks. People are dying.,NEGATIVE,False,Chennai
+351,2024-12-18 02:18,citizen_raj396,Twitter,Transport,No buses after 8pm in our area. Women cannot travel safely because of this.,NEGATIVE,False,Hyderabad
+288,2024-07-06 17:43,aam_aadmi_voice782,Survey Form,Health,Brilliant initiative making patients wait 8 hours. Really building that patient endurance. (Reporting from Kochi),NEGATIVE,True,Bengaluru
+101,2024-11-17 20:02,public_pulse808,Survey Form,Education,"Teachers in government school spend half the day on election duty, not teaching.",NEGATIVE,False,Delhi
+356,2024-05-03 01:51,ground_reality414,Facebook,Transport,Metro rail phase 3 Environmental Impact Assessment is currently open for public comment. (Reporting from Indore),NEUTRAL,False,Kolkata
+203,2024-06-20 09:29,rural_voice_in537,Survey Form,Transport,State buses are always overloaded and 2 hours late. Absolute chaos every morning.,NEGATIVE,False,Kolkata
+378,2024-07-23 14:17,daily_commuter707,Survey Form,Health,They asked us to buy medicines from outside even in a government hospital. Corruption! (Reporting from Chandigarh),NEGATIVE,False,Kochi
+102,2024-06-16 23:26,aam_aadmi_voice206,Reddit,Transport,State transport department has issued a tender for 200 new buses.,NEUTRAL,False,Visakhapatnam
+287,2024-05-02 15:24,govtcritic99247,Survey Form,Education,A new curriculum framework has been released for public feedback.,NEUTRAL,False,Bengaluru
+247,2024-05-17 15:09,policy_watch172,Survey Form,Education,State board exams will be conducted in March as announced by the education department. (Reporting from Lucknow),NEUTRAL,False,Jaipur
+419,2024-02-04 08:06,frustrated_taxpayer744,Government Portal,Taxes,Received income tax notice for taxes already paid. No response from department for 4 months.,NEGATIVE,False,Nagpur
+67,2024-10-08 10:22,health_worker_india278,Facebook,Taxes,The TDS deducted from my salary does not show in Form 26AS. Complete system failure.,NEGATIVE,False,Jaipur
+363,2024-01-30 00:28,realitycheckIN215,Reddit,Health,The ambulance never came. My father had to be taken in a private vehicle. Shameful.,NEGATIVE,False,Hyderabad
+257,2024-09-04 03:18,student_speaks943,Twitter,Taxes,Income tax officers demand cash to process legitimate refunds. Where is the accountability? (Reporting from Mumbai),NEGATIVE,False,Chennai
+322,2024-08-11 20:31,voice_of_voter179,Government Portal,Transport,Traffic signals on the main road have been broken for 3 months. Accidents happening daily.,NEGATIVE,False,Bhopal
+44,2024-04-17 13:50,urban_observer622,Facebook,Taxes,GST return filing portal crashed on the last day again. Fine imposed even though it was government failure.,NEGATIVE,False,Surat
+135,2024-08-25 18:48,urban_observer460,Government Portal,Education,Scholarship portal keeps crashing. Students have been waiting 6 months for their money. (Reporting from Nagpur),NEGATIVE,False,Patna
+387,2024-07-05 01:52,hopeful_citizen865,Survey Form,Education,Education department is conducting a school mapping survey across all districts.,NEUTRAL,False,Patna
+281,2024-01-01 06:30,policy_watch136,Government Portal,Education,Scholarship portal keeps crashing. Students have been waiting 6 months for their money.,NEGATIVE,False,Ahmedabad
+469,2024-12-10 16:31,health_worker_india911,Twitter,Education,Education minister gave a great speech about literacy. The school in his own constituency has no teacher.,NEGATIVE,True,Chandigarh
+388,2024-02-28 03:48,hopeful_citizen3,Facebook,Taxes,Income tax department released new guidelines for NRI tax filing.,NEUTRAL,False,Bhopal
+244,2024-08-15 11:48,realitycheckIN105,Reddit,Transport,"The new metro line has completely changed how I commute. Fast, clean, and affordable.",POSITIVE,False,Bengaluru
+43,2024-04-08 13:42,daily_commuter694,Reddit,Transport,No buses after 8pm in our area. Women cannot travel safely because of this.,NEGATIVE,False,Lucknow
+459,2024-07-09 19:20,teacher_truth920,Government Portal,Health,The government has announced a new health policy. Details are yet to be released.,NEUTRAL,False,Jaipur
+68,2024-10-01 22:11,frustrated_taxpayer222,Survey Form,Education,The new digital classrooms in government schools are fantastic. Kids love them.,POSITIVE,False,Jaipur
+76,2024-10-05 07:41,proudindian_88931,Facebook,Education,Our government school got a computer lab! The computers have been in boxes for 2 years.,NEGATIVE,True,Kolkata
+340,2024-02-04 02:24,rural_voice_in407,Government Portal,Education,Education minister gave a great speech about literacy. The school in his own constituency has no teacher.,NEGATIVE,True,Patna
+149,2024-07-09 17:59,govtcritic99729,Government Portal,Education,Fantastic that they painted 'Smart Classroom' on the door. Shame there is no electricity inside.,NEGATIVE,True,Chennai
+222,2024-10-02 15:15,hopeful_citizen308,Reddit,Taxes,They audit small traders aggressively but let big companies off with nothing. Two systems of justice.,NEGATIVE,False,Surat
+343,2024-08-30 01:11,realitycheckIN413,Reddit,Taxes,Small business is shutting down because of compliance burden. Every month a new form.,NEGATIVE,False,Chandigarh
+47,2024-09-10 12:15,proudindian_88672,Twitter,Health,Mental health services are completely absent in government hospitals. Ignored completely. (Reporting from Chandigarh),NEGATIVE,False,Chennai
+460,2024-05-23 12:14,urban_observer132,Twitter,Taxes,"Tax portal did not crash during filing season this year. Small miracle, but appreciated.",POSITIVE,False,Indore
+295,2024-10-17 05:23,aam_aadmi_voice262,Twitter,Taxes,GST return filing portal crashed on the last day again. Fine imposed even though it was government failure.,NEGATIVE,False,Chennai
+373,2024-04-13 11:45,student_speaks303,Reddit,Education,Government college has 3 professors for 800 students. How is anyone supposed to learn?,NEGATIVE,False,Delhi
+229,2024-04-10 10:14,daily_commuter584,Reddit,Transport,The road we pay toll on is in worse condition than a dirt track. Daylight robbery.,NEGATIVE,False,Nagpur
+202,2024-07-22 15:11,public_pulse898,Twitter,Education,Fantastic that they painted 'Smart Classroom' on the door. Shame there is no electricity inside.,NEGATIVE,True,Mumbai
+26,2024-09-14 16:10,angry_voter_2024984,Government Portal,Health,The government has announced a new health policy. Details are yet to be released. (Reporting from Nagpur),NEUTRAL,False,Bengaluru
+79,2024-12-10 08:36,angry_voter_2024782,Reddit,Health,The new government hospital in our district is excellent. Doctors are attentive and medicine is free.,POSITIVE,False,Nagpur
+415,2024-09-30 07:08,daily_commuter816,Government Portal,Taxes,GST return filing portal crashed on the last day again. Fine imposed even though it was government failure.,NEGATIVE,False,Lucknow
+258,2024-04-15 16:30,news_follower_in488,Twitter,Education,No textbooks delivered even 3 months into the academic year. Criminal negligence.,NEGATIVE,False,Surat
+168,2024-09-12 16:24,rural_voice_in121,Facebook,Transport,State buses are always overloaded and 2 hours late. Absolute chaos every morning. (Reporting from Hyderabad),NEGATIVE,False,Jaipur
+77,2024-10-18 09:28,govtcritic99480,Facebook,Health,The new vaccination drive has been very well managed. Smooth and efficient.,POSITIVE,False,Chandigarh
+290,2024-10-02 19:09,realitycheckIN86,Facebook,Taxes,GST on medicines is morally wrong. Taxing sick people. Shameful policy. (Reporting from Visakhapatnam),NEGATIVE,False,Bengaluru
+277,2024-08-07 06:31,realitycheckIN331,Facebook,Transport,Brilliant idea painting road lines that disappear in a week. Saves paint budget for next year.,NEGATIVE,True,Patna
+164,2024-06-28 14:02,news_follower_in630,Survey Form,Taxes,GST on medicines is morally wrong. Taxing sick people. Shameful policy. (Reporting from Surat),NEGATIVE,False,Jaipur
+22,2024-10-01 14:08,student_speaks188,Facebook,Taxes,Finance ministry released the tax collection data for Q3. Numbers are being reviewed. (Reporting from Pune),NEUTRAL,False,Surat
+269,2024-02-27 18:07,realitycheckIN794,Government Portal,Education,Education department is conducting a school mapping survey across all districts.,NEUTRAL,False,Bhopal
+157,2024-07-10 08:47,citizen_raj366,Twitter,Health,Blood bank is always empty. Every patient's family has to arrange blood on their own. (Reporting from Chandigarh),NEGATIVE,False,Bhopal
+28,2024-06-10 08:13,voice_of_voter245,Facebook,Health,Mental health services are completely absent in government hospitals. Ignored completely.,NEGATIVE,False,Chandigarh
+368,2024-01-10 07:14,proudindian_88217,Twitter,Taxes,Tax refund stuck for 2 years. Called 10 times. Written 5 letters. Nothing moves. (Reporting from Chandigarh),NEGATIVE,False,Indore
+324,2024-11-09 07:40,urban_observer107,Survey Form,Health,Health helpline 104 is actually working now. Called at 2am and got a doctor.,POSITIVE,False,Kolkata
+445,2024-12-27 12:47,proudindian_88876,Twitter,Taxes,They audit small traders aggressively but let big companies off with nothing. Two systems of justice.,NEGATIVE,False,Ahmedabad
+6,2024-04-29 03:24,realitycheckIN465,Facebook,Health,New MBBS seats have been added to government medical colleges this year.,NEUTRAL,False,Hyderabad
+309,2024-05-07 03:29,govtcritic99824,Reddit,Taxes,They simplified taxes so much that my CA had to hire two more assistants to understand them.,NEGATIVE,True,Chennai
+335,2024-08-16 01:16,health_worker_india477,Facebook,Education,Government school building is crumbling. Rain comes through the roof during class.,NEGATIVE,False,Ahmedabad
+117,2024-10-26 17:45,voice_of_voter391,Government Portal,Education,Scholarship amount was credited on time this year. Very smooth process.,POSITIVE,False,Indore
+62,2024-08-23 22:09,student_speaks181,Government Portal,Health,They asked us to buy medicines from outside even in a government hospital. Corruption!,NEGATIVE,False,Jaipur
+214,2024-11-24 23:41,student_speaks384,Survey Form,Taxes,Income tax helpline was actually helpful. Issue resolved in one call. (Reporting from Kolkata),POSITIVE,False,Surat
+223,2024-03-09 12:15,realitycheckIN209,Facebook,Health,The ICU at district hospital has been non-functional for 3 weeks. People are dying.,NEGATIVE,False,Bengaluru
+179,2024-06-03 15:15,daily_commuter305,Survey Form,Taxes,They simplified taxes so much that my CA had to hire two more assistants to understand them.,NEGATIVE,True,Bengaluru
+172,2024-01-14 11:35,urban_observer378,Survey Form,Education,State board exams will be conducted in March as announced by the education department.,NEUTRAL,False,Visakhapatnam
+29,2024-02-07 00:29,ground_reality577,Twitter,Education,A new curriculum framework has been released for public feedback.,NEUTRAL,False,Bengaluru
+41,2024-12-28 13:00,tax_payer_india948,Government Portal,Health,Mental health services are completely absent in government hospitals. Ignored completely. (Reporting from Delhi),NEGATIVE,False,Pune
+196,2024-05-20 09:07,urban_observer693,Government Portal,Transport,Bus depot workers are on strike again. No information to commuters. Total mismanagement.,NEGATIVE,False,Chandigarh
+375,2024-02-21 08:41,hopeful_citizen468,Facebook,Education,Fantastic that they painted 'Smart Classroom' on the door. Shame there is no electricity inside.,NEGATIVE,True,Jaipur
+401,2024-04-25 20:45,news_follower_in774,Government Portal,Health,The new vaccination drive has been very well managed. Smooth and efficient. (Reporting from Surat),POSITIVE,False,Visakhapatnam
+390,2024-04-20 14:52,frustrated_taxpayer734,Facebook,Transport,The flyover project started 4 years ago. Still incomplete. Money swallowed somewhere. (Reporting from Chandigarh),NEGATIVE,False,Chennai
+329,2024-07-11 05:46,policy_watch561,Twitter,Health,No medicines in the government dispensary again. Third time this month. Absolute failure. (Reporting from Hyderabad),NEGATIVE,False,Patna
+305,2024-05-19 07:04,frustrated_taxpayer140,Government Portal,Taxes,Income tax department released new guidelines for NRI tax filing.,NEUTRAL,False,Chennai
+402,2024-03-31 21:04,aam_aadmi_voice986,Reddit,Education,State board exams will be conducted in March as announced by the education department.,NEUTRAL,False,Indore
+474,2024-02-13 20:59,daily_commuter317,Reddit,Taxes,Received income tax notice for taxes already paid. No response from department for 4 months. (Reporting from Kolkata),NEGATIVE,False,Ahmedabad
+470,2024-11-23 10:26,ground_reality586,Survey Form,Transport,Traffic signals on the main road have been broken for 3 months. Accidents happening daily.,NEGATIVE,False,Bengaluru
+410,2024-04-17 21:40,frustrated_taxpayer886,Survey Form,Health,The new government hospital in our district is excellent. Doctors are attentive and medicine is free.,POSITIVE,False,Chennai
+250,2024-03-31 12:20,public_pulse753,Survey Form,Education,Mid-day meal was raw and inedible today. Kids left hungry. Who is monitoring this?,NEGATIVE,False,Ahmedabad
+89,2024-06-13 06:44,hopeful_citizen586,Survey Form,Transport,Bus depot workers are on strike again. No information to commuters. Total mismanagement.,NEGATIVE,False,Ahmedabad
+248,2024-05-06 23:40,teacher_truth609,Government Portal,Taxes,Received income tax notice for taxes already paid. No response from department for 4 months.,NEGATIVE,False,Pune
+450,2024-03-21 02:17,daily_commuter362,Survey Form,Education,A new curriculum framework has been released for public feedback. (Reporting from Mumbai),NEUTRAL,False,Chandigarh
+371,2024-12-04 03:42,tax_payer_india277,Government Portal,Education,"Government school has no blackboard, no chalk, no teacher. Just empty classrooms.",NEGATIVE,False,Kolkata
+40,2024-01-20 03:38,student_speaks354,Facebook,Health,The new vaccination drive has been very well managed. Smooth and efficient. (Reporting from Jaipur),POSITIVE,False,Kochi
+376,2024-05-28 11:51,voice_of_voter437,Twitter,Taxes,"Tax portal did not crash during filing season this year. Small miracle, but appreciated. (Reporting from Delhi)",POSITIVE,False,Chennai
+112,2024-11-01 00:17,proudindian_88134,Government Portal,Education,"Teachers in government school spend half the day on election duty, not teaching.",NEGATIVE,False,Jaipur
+485,2024-02-06 17:30,aam_aadmi_voice197,Facebook,Transport,State bus service has added new routes to remote areas. Very helpful for daily workers. (Reporting from Chandigarh),POSITIVE,False,Chandigarh
+205,2024-09-20 10:05,daily_commuter686,Twitter,Education,The sports facilities added to government schools are excellent. Children are thriving.,POSITIVE,False,Hyderabad
+404,2024-11-01 01:49,ground_reality864,Facebook,Transport,Traffic signals on the main road have been broken for 3 months. Accidents happening daily. (Reporting from Patna),NEGATIVE,False,Nagpur
+48,2024-10-12 07:58,govtcritic99468,Reddit,Taxes,Income tax officers demand cash to process legitimate refunds. Where is the accountability?,NEGATIVE,False,Surat
+416,2024-01-06 17:55,rural_voice_in145,Twitter,Education,No textbooks delivered even 3 months into the academic year. Criminal negligence.,NEGATIVE,False,Delhi
+132,2024-12-19 11:05,student_speaks865,Twitter,Health,They asked us to buy medicines from outside even in a government hospital. Corruption! (Reporting from Surat),NEGATIVE,False,Ahmedabad
+120,2024-08-30 02:05,policy_watch96,Survey Form,Transport,Traffic signals on the main road have been broken for 3 months. Accidents happening daily.,NEGATIVE,False,Chennai
+486,2024-08-14 07:47,angry_voter_2024204,Survey Form,Health,"Got my surgery done at the government hospital. Zero cost, great care. Thank you.",POSITIVE,False,Chennai
+299,2024-05-29 18:50,public_pulse758,Government Portal,Transport,Highway expansion has reduced travel time by 40 minutes. Huge relief. (Reporting from Pune),POSITIVE,False,Ahmedabad
+188,2024-08-30 16:29,proudindian_88621,Government Portal,Taxes,GST return filing portal crashed on the last day again. Fine imposed even though it was government failure. (Reporting from Patna),NEGATIVE,False,Kolkata
+136,2024-11-19 09:50,realitycheckIN606,Twitter,Transport,Road from our village to the main highway is finally fixed. Life changing for us.,POSITIVE,False,Bhopal
+71,2024-05-09 15:07,policy_watch411,Survey Form,Taxes,The TDS deducted from my salary does not show in Form 26AS. Complete system failure. (Reporting from Delhi),NEGATIVE,False,Bengaluru
+403,2024-05-15 04:10,urban_observer867,Facebook,Health,The ICU at district hospital has been non-functional for 3 weeks. People are dying.,NEGATIVE,False,Mumbai
+183,2024-09-20 14:31,public_pulse510,Twitter,Transport,State bus service has added new routes to remote areas. Very helpful for daily workers.,POSITIVE,False,Bengaluru
+236,2024-01-29 20:00,aam_aadmi_voice85,Survey Form,Health,The ICU at district hospital has been non-functional for 3 weeks. People are dying.,NEGATIVE,False,Kochi
+20,2024-10-19 18:30,hopeful_citizen804,Survey Form,Education,The exam results are out but certificates are delayed for 8 months. Unacceptable. (Reporting from Kolkata),NEGATIVE,False,Kochi
+49,2024-09-15 13:53,rural_voice_in457,Reddit,Transport,Highway is 'under construction' for 7 years now. Must be the slowest construction in history.,NEGATIVE,True,Nagpur
+80,2024-08-11 20:52,teacher_truth993,Twitter,Taxes,"Filing GST is so simple now. Only takes 3 days, 2 accountants and a prayer to the server gods.",NEGATIVE,True,Nagpur
+405,2024-04-04 16:04,tax_payer_india164,Survey Form,Transport,The flyover construction was completed on time for once. Great project management.,POSITIVE,False,Visakhapatnam
+293,2024-05-12 05:23,proudindian_88768,Facebook,Health,Health helpline 104 is actually working now. Called at 2am and got a doctor.,POSITIVE,False,Chennai
+285,2024-03-12 03:37,daily_commuter360,Survey Form,Taxes,"Excellent idea adding a new tax on top of the existing tax. Tax on tax, very innovative.",NEGATIVE,True,Patna
+262,2024-04-10 14:07,realitycheckIN687,Survey Form,Health,Ministry of Health held a review meeting today on hospital infrastructure.,NEUTRAL,False,Indore
+284,2024-03-25 14:22,frustrated_taxpayer644,Reddit,Health,Waited 6 hours at the government hospital and still didn't see a doctor. Pathetic system.,NEGATIVE,False,Kochi
+142,2024-10-25 21:09,news_follower_in318,Survey Form,Transport,Traffic signals on the main road have been broken for 3 months. Accidents happening daily.,NEGATIVE,False,Kolkata
+354,2024-09-23 19:25,urban_observer105,Twitter,Taxes,Small business is shutting down because of compliance burden. Every month a new form.,NEGATIVE,False,Indore
+396,2024-12-10 04:45,aam_aadmi_voice516,Government Portal,Education,Government college has 3 professors for 800 students. How is anyone supposed to learn?,NEGATIVE,False,Patna
+12,2024-09-27 08:35,citizen_raj697,Twitter,Health,Mental health services are completely absent in government hospitals. Ignored completely.,NEGATIVE,False,Visakhapatnam
+452,2024-08-20 12:36,citizen_raj268,Reddit,Transport,The new flyover has a toll booth but no road connecting to it. Visionary planning. (Reporting from Pune),NEGATIVE,True,Kochi
+436,2024-03-28 07:53,student_speaks616,Reddit,Education,The exam results are out but certificates are delayed for 8 months. Unacceptable.,NEGATIVE,False,Hyderabad
+114,2024-08-31 14:49,news_follower_in526,Government Portal,Education,The Right to Education Act review is currently underway at the national level.,NEUTRAL,False,Chennai
+154,2024-11-23 19:29,policy_watch114,Survey Form,Transport,State buses are always overloaded and 2 hours late. Absolute chaos every morning. (Reporting from Kochi),NEGATIVE,False,Visakhapatnam
+4,2024-11-05 08:51,angry_voter_2024748,Survey Form,Transport,"New railway station facilities are top class. Clean platform, proper seating. (Reporting from Bhopal)",POSITIVE,False,Visakhapatnam
+155,2024-05-29 13:00,ground_reality362,Reddit,Health,Mental health services are completely absent in government hospitals. Ignored completely. (Reporting from Kolkata),NEGATIVE,False,Kochi
+70,2024-12-23 04:40,teacher_truth106,Twitter,Transport,"The new metro line has completely changed how I commute. Fast, clean, and affordable.",POSITIVE,False,Lucknow
+497,2024-04-01 01:12,govtcritic99498,Reddit,Health,No medicines in the government dispensary again. Third time this month. Absolute failure. (Reporting from Kolkata),NEGATIVE,False,Chennai
+9,2024-02-03 06:58,urban_observer898,Facebook,Education,Education minister gave a great speech about literacy. The school in his own constituency has no teacher.,NEGATIVE,True,Pune
+306,2024-07-27 03:34,news_follower_in988,Reddit,Education,Navodaya Vidyalayas continue to be one of the best things the government ever built.,POSITIVE,False,Surat
+146,2024-11-15 05:46,health_worker_india45,Survey Form,Taxes,Tax refund was processed in just 10 days this year. Very impressed with the ITR system.,POSITIVE,False,Bhopal
+18,2024-05-06 07:04,voice_of_voter22,Government Portal,Transport,Bus depot workers are on strike again. No information to commuters. Total mismanagement.,NEGATIVE,False,Visakhapatnam
+442,2024-03-01 16:00,daily_commuter671,Reddit,Health,The government has announced a new health policy. Details are yet to be released.,NEUTRAL,False,Patna
+1,2024-02-22 21:47,rural_voice_in90,Government Portal,Health,The new vaccination drive has been very well managed. Smooth and efficient. (Reporting from Kolkata),POSITIVE,False,Kochi
+204,2024-08-22 20:16,aam_aadmi_voice15,Facebook,Taxes,Received income tax notice for taxes already paid. No response from department for 4 months.,NEGATIVE,False,Lucknow
+230,2024-11-24 23:31,health_worker_india173,Facebook,Transport,Drainage work dug up the road 6 months ago and was never completed. Waterlogging everywhere.,NEGATIVE,False,Hyderabad
+232,2024-01-05 06:32,health_worker_india383,Twitter,Health,Government hospital toilets are in a disgusting state. No hygiene whatsoever. (Reporting from Kolkata),NEGATIVE,False,Nagpur
+185,2024-07-06 12:23,angry_voter_2024411,Twitter,Health,"Sure, the hospital has 5 star rated toilets on paper. In reality, bring your own water. (Reporting from Jaipur)",NEGATIVE,True,Visakhapatnam
+131,2024-10-21 13:36,daily_commuter727,Survey Form,Taxes,The new GST portal is much easier to use compared to the old system. Good improvement.,POSITIVE,False,Lucknow
+382,2024-05-07 15:22,daily_commuter153,Government Portal,Transport,State buses are always overloaded and 2 hours late. Absolute chaos every morning.,NEGATIVE,False,Delhi
+451,2024-10-08 09:46,rural_voice_in937,Government Portal,Education,Scholarship portal keeps crashing. Students have been waiting 6 months for their money.,NEGATIVE,False,Bhopal
+476,2024-10-07 14:08,rural_voice_in182,Government Portal,Taxes,They simplified taxes so much that my CA had to hire two more assistants to understand them.,NEGATIVE,True,Surat
+193,2024-02-01 22:08,tax_payer_india213,Government Portal,Education,The exam results are out but certificates are delayed for 8 months. Unacceptable.,NEGATIVE,False,Patna
+110,2024-08-20 02:42,frustrated_taxpayer658,Government Portal,Taxes,Received income tax notice for taxes already paid. No response from department for 4 months.,NEGATIVE,False,Mumbai
+280,2024-07-09 21:57,aam_aadmi_voice54,Survey Form,Transport,The flyover construction was completed on time for once. Great project management.,POSITIVE,False,Lucknow
+289,2024-01-21 01:50,daily_commuter519,Facebook,Health,Waited 6 hours at the government hospital and still didn't see a doctor. Pathetic system.,NEGATIVE,False,Indore
+124,2024-12-25 09:58,voice_of_voter360,Twitter,Health,Doctors at the PHC are always absent. What is the point of these health centers? (Reporting from Jaipur),NEGATIVE,False,Hyderabad
+312,2024-07-21 15:01,daily_commuter700,Survey Form,Health,The district hospital renovation is complete and it looks world class now.,POSITIVE,False,Hyderabad
+166,2024-07-06 11:24,urban_observer34,Government Portal,Health,"Got my surgery done at the government hospital. Zero cost, great care. Thank you.",POSITIVE,False,Kolkata
+494,2024-05-14 17:23,health_worker_india1,Government Portal,Education,Free laptop distribution to Class 10 students was a wonderful initiative.,POSITIVE,False,Chandigarh
+423,2024-03-12 17:12,realitycheckIN752,Twitter,Health,Really impressed by the health camps organized this month. Free checkups for everyone!,POSITIVE,False,Bengaluru
+221,2024-01-25 11:41,daily_commuter805,Government Portal,Education,Government school building is crumbling. Rain comes through the roof during class.,NEGATIVE,False,Patna
+325,2024-06-12 05:40,policy_watch842,Facebook,Transport,The highway authority released traffic diversion instructions for the bypass construction.,NEUTRAL,False,Surat
+392,2024-01-25 17:59,student_speaks859,Government Portal,Education,Fantastic that they painted 'Smart Classroom' on the door. Shame there is no electricity inside.,NEGATIVE,True,Nagpur
+212,2024-10-13 14:43,public_pulse741,Twitter,Education,The exam results are out but certificates are delayed for 8 months. Unacceptable.,NEGATIVE,False,Chandigarh
+191,2024-01-27 18:30,aam_aadmi_voice537,Government Portal,Transport,Brilliant idea painting road lines that disappear in a week. Saves paint budget for next year.,NEGATIVE,True,Chandigarh
+433,2024-09-03 21:30,teacher_truth216,Government Portal,Education,No textbooks delivered even 3 months into the academic year. Criminal negligence.,NEGATIVE,False,Hyderabad
+167,2024-02-09 18:08,tax_payer_india376,Survey Form,Taxes,The tax department says they are going digital. The only digital thing is the fine notice.,NEGATIVE,True,Patna
+462,2024-07-13 18:06,voice_of_voter371,Government Portal,Taxes,GST return filing portal crashed on the last day again. Fine imposed even though it was government failure. (Reporting from Pune),NEGATIVE,False,Jaipur
+162,2024-09-11 11:59,tax_payer_india274,Twitter,Taxes,"Property tax assessment is completely arbitrary. Same house, different colonies, double the rate.",NEGATIVE,False,Kochi
+181,2024-02-24 10:15,health_worker_india126,Facebook,Taxes,The simplified tax forms for small businesses are a huge relief. Finally user-friendly.,POSITIVE,False,Surat
+227,2024-07-03 16:56,teacher_truth478,Twitter,Taxes,The TDS deducted from my salary does not show in Form 26AS. Complete system failure.,NEGATIVE,False,Nagpur
+308,2024-01-26 21:19,realitycheckIN840,Reddit,Health,New MBBS seats have been added to government medical colleges this year.,NEUTRAL,False,Mumbai
+274,2024-03-08 07:09,voice_of_voter849,Reddit,Transport,They built a footpath and it collapsed in the first rain. Engineering marvel.,NEGATIVE,True,Chandigarh
+81,2024-03-23 10:26,teacher_truth296,Survey Form,Transport,"Railway station has no proper waiting area, no water, and no working toilets.",NEGATIVE,False,Visakhapatnam
+487,2024-03-22 20:46,angry_voter_2024763,Government Portal,Education,Government college has 3 professors for 800 students. How is anyone supposed to learn?,NEGATIVE,False,Indore
+173,2024-09-02 16:26,student_speaks844,Government Portal,Education,Scholarship portal keeps crashing. Students have been waiting 6 months for their money. (Reporting from Chandigarh),NEGATIVE,False,Bengaluru
+259,2024-01-12 10:41,govtcritic99694,Reddit,Taxes,They audit small traders aggressively but let big companies off with nothing. Two systems of justice. (Reporting from Chennai),NEGATIVE,False,Ahmedabad
+206,2024-04-30 14:48,realitycheckIN977,Facebook,Education,Mid-day meal was raw and inedible today. Kids left hungry. Who is monitoring this? (Reporting from Chandigarh),NEGATIVE,False,Lucknow
+282,2024-03-02 13:44,proudindian_88490,Twitter,Taxes,GST exemption for small traders under 40 lakhs is a very sensible policy.,POSITIVE,False,Ahmedabad
+93,2024-01-19 19:04,hopeful_citizen647,Facebook,Taxes,"Great, another amnesty scheme for big defaulters. Small honest taxpayers can keep suffering.",NEGATIVE,True,Ahmedabad
+406,2024-12-05 10:21,news_follower_in301,Reddit,Taxes,Tax refund was processed in just 10 days this year. Very impressed with the ITR system.,POSITIVE,False,Indore
+86,2024-05-19 13:53,teacher_truth484,Reddit,Taxes,The tax department says they are going digital. The only digital thing is the fine notice.,NEGATIVE,True,Surat
+54,2024-01-15 12:21,daily_commuter742,Reddit,Education,Government college has 3 professors for 800 students. How is anyone supposed to learn?,NEGATIVE,False,Surat
+453,2024-02-29 16:16,rural_voice_in833,Government Portal,Health,No female doctors in the government hospital. Women refuse to go there.,NEGATIVE,False,Jaipur
+219,2024-01-29 04:32,public_pulse240,Government Portal,Taxes,Tax refund stuck for 2 years. Called 10 times. Written 5 letters. Nothing moves.,NEGATIVE,False,Patna
+341,2024-11-15 18:33,student_speaks116,Survey Form,Transport,"Roads in our area have not been repaired in 5 years. Full of craters, not potholes.",NEGATIVE,False,Kolkata
+360,2024-06-18 11:16,urban_observer302,Survey Form,Transport,No buses after 8pm in our area. Women cannot travel safely because of this.,NEGATIVE,False,Chennai
+235,2024-08-23 18:15,hopeful_citizen308,Twitter,Transport,The road we pay toll on is in worse condition than a dirt track. Daylight robbery. (Reporting from Chandigarh),NEGATIVE,False,Delhi
+346,2024-06-13 08:46,student_speaks620,Twitter,Transport,Highway is 'under construction' for 7 years now. Must be the slowest construction in history.,NEGATIVE,True,Pune
+184,2024-01-25 01:18,teacher_truth612,Survey Form,Taxes,Tax refund stuck for 2 years. Called 10 times. Written 5 letters. Nothing moves. (Reporting from Bhopal),NEGATIVE,False,Lucknow
+296,2024-05-05 01:30,news_follower_in393,Reddit,Education,The Right to Education Act review is currently underway at the national level. (Reporting from Mumbai),NEUTRAL,False,Hyderabad
+327,2024-07-30 15:56,daily_commuter360,Government Portal,Taxes,GST on medicines is morally wrong. Taxing sick people. Shameful policy.,NEGATIVE,False,Chandigarh
+393,2024-03-06 03:24,ground_reality621,Facebook,Education,State board exams will be conducted in March as announced by the education department.,NEUTRAL,False,Indore
+55,2024-10-30 18:42,citizen_raj86,Survey Form,Education,Fantastic that they painted 'Smart Classroom' on the door. Shame there is no electricity inside.,NEGATIVE,True,Kolkata
+383,2024-08-28 15:55,aam_aadmi_voice77,Survey Form,Health,The ambulance never came. My father had to be taken in a private vehicle. Shameful.,NEGATIVE,False,Patna
+213,2024-01-24 13:22,policy_watch555,Twitter,Transport,They built a footpath and it collapsed in the first rain. Engineering marvel.,NEGATIVE,True,Bengaluru
+482,2024-02-26 20:29,ground_reality464,Facebook,Taxes,The new GST portal is much easier to use compared to the old system. Good improvement. (Reporting from Lucknow),POSITIVE,False,Nagpur
+384,2024-10-08 20:24,daily_commuter837,Reddit,Education,Government college has 3 professors for 800 students. How is anyone supposed to learn? (Reporting from Ahmedabad),NEGATIVE,False,Bengaluru
+286,2024-12-19 00:54,public_pulse211,Government Portal,Education,Scholarship portal keeps crashing. Students have been waiting 6 months for their money. (Reporting from Lucknow),NEGATIVE,False,Indore
+92,2024-12-20 12:41,policy_watch873,Facebook,Taxes,Income tax department released new guidelines for NRI tax filing.,NEUTRAL,False,Visakhapatnam
+321,2024-09-26 11:04,news_follower_in722,Survey Form,Health,The ambulance response time has improved drastically. Government is doing a great job here.,POSITIVE,False,Chennai
+292,2024-06-07 21:47,aam_aadmi_voice123,Twitter,Health,The ICU at district hospital has been non-functional for 3 weeks. People are dying. (Reporting from Delhi),NEGATIVE,False,Kolkata
+128,2024-10-30 15:33,public_pulse47,Reddit,Transport,No buses after 8pm in our area. Women cannot travel safely because of this.,NEGATIVE,False,Chandigarh
+337,2024-08-02 17:43,teacher_truth587,Reddit,Education,Government school building is crumbling. Rain comes through the roof during class.,NEGATIVE,False,Nagpur
+270,2024-08-05 03:47,hopeful_citizen305,Twitter,Health,Health department released its annual report. Mixed results across districts.,NEUTRAL,False,Surat
+99,2024-10-21 09:44,public_pulse23,Survey Form,Taxes,"Excellent idea adding a new tax on top of the existing tax. Tax on tax, very innovative. (Reporting from Bhopal)",NEGATIVE,True,Jaipur
+98,2024-08-05 22:16,health_worker_india866,Facebook,Transport,The new flyover has a toll booth but no road connecting to it. Visionary planning.,NEGATIVE,True,Pune
+198,2024-10-14 22:17,proudindian_88112,Government Portal,Taxes,Income tax officers demand cash to process legitimate refunds. Where is the accountability?,NEGATIVE,False,Ahmedabad
+273,2024-05-16 16:57,govtcritic99139,Survey Form,Education,Government college has 3 professors for 800 students. How is anyone supposed to learn?,NEGATIVE,False,Delhi
+119,2024-08-20 12:26,govtcritic99321,Survey Form,Taxes,"Great, another amnesty scheme for big defaulters. Small honest taxpayers can keep suffering.",NEGATIVE,True,Patna
+372,2024-11-12 03:18,govtcritic99804,Twitter,Taxes,"Excellent idea adding a new tax on top of the existing tax. Tax on tax, very innovative.",NEGATIVE,True,Nagpur
+52,2024-08-26 13:03,frustrated_taxpayer853,Survey Form,Education,The sports facilities added to government schools are excellent. Children are thriving.,POSITIVE,False,Chandigarh
+50,2024-05-21 16:31,hopeful_citizen282,Survey Form,Taxes,Tax refund stuck for 2 years. Called 10 times. Written 5 letters. Nothing moves.,NEGATIVE,False,Bengaluru
+266,2024-11-13 01:55,news_follower_in975,Twitter,Transport,The flyover construction was completed on time for once. Great project management.,POSITIVE,False,Nagpur
+492,2024-05-08 01:31,health_worker_india573,Facebook,Health,New MBBS seats have been added to government medical colleges this year.,NEUTRAL,False,Visakhapatnam
+111,2024-10-16 06:04,rural_voice_in213,Government Portal,Health,Ministry of Health held a review meeting today on hospital infrastructure.,NEUTRAL,False,Pune
+484,2024-06-24 13:19,teacher_truth381,Survey Form,Health,The ambulance never came. My father had to be taken in a private vehicle. Shameful. (Reporting from Pune),NEGATIVE,False,Delhi

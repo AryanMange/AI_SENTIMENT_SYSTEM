@@ -1,0 +1,41 @@
+id,timestamp,text,topic,source,sentiment,sentiment_score,urgency,is_realtime
+sim_1774772899_0,2026-03-29 13:59,Government school building collapsed due to poor maintenance. Thankfully no students.,Education,Reddit/worldnews (simulated),NEGATIVE,0.8622,CRITICAL,True
+sim_1774772979_1,2026-03-29 13:59,Tax portal crashed on deadline day again. Fine imposed. This is injustice.,Taxes,Reddit/politics (simulated),NEGATIVE,0.9577,CRITICAL,True
+sim_1774772979_2,2026-03-29 13:59,Health minister gave a speech about healthcare. The PHC in his own area has no staff.,Health,Reddit/india (simulated),NEGATIVE,0.5728,HIGH,True
+sim_1774772979_3,2026-03-29 13:59,The new government hospital has no doctors again today. Third time this week.,Health,Reddit/india (simulated),NEGATIVE,0.8038,CRITICAL,True
+sim_1774772979_4,2026-03-29 13:59,Scholarship money not credited for 6 months. Students suffering.,Education,Reddit/india (simulated),NEGATIVE,0.9271,CRITICAL,True
+sim_1774986414_0,2026-04-01 01:17,Road repair scheme announced but nothing on ground. Pure election stunt.,Transport,Reddit/india (simulated),NEGATIVE,0.5981,HIGH,True
+sim_1774986451_1,2026-04-01 01:17,GST refund pending for 8 months. No response from department at all.,Taxes,Reddit/IndiaPolitics (simulated),NEGATIVE,0.7827,HIGH,True
+sim_1774986451_2,2026-04-01 01:17,Health minister gave a speech about healthcare. The PHC in his own area has no staff.,Health,Reddit/india (simulated),NEGATIVE,0.5728,HIGH,True
+sim_1774986451_3,2026-04-01 01:17,The new government hospital has no doctors again today. Third time this week.,Health,Reddit/india (simulated),NEGATIVE,0.8038,CRITICAL,True
+sim_1774986451_4,2026-04-01 01:17,Pothole complaint app actually works. Road fixed within a week. Surprised.,Transport,Reddit/india (simulated),POSITIVE,0.8798,LOW,True
+sim_1775032355_0,2026-04-01 14:02,Government school building collapsed due to poor maintenance. Thankfully no students.,Education,Reddit/worldnews (simulated),NEGATIVE,0.8622,CRITICAL,True
+sim_1775032375_1,2026-04-01 14:02,The new government hospital has no doctors again today. Third time this week.,Health,Reddit/india (simulated),NEGATIVE,0.8038,CRITICAL,True
+sim_1775032375_2,2026-04-01 14:02,Government school digital classroom initiative is actually working in our village!,Education,Reddit/india (simulated),POSITIVE,0.9176,LOW,True
+sim_1775032375_3,2026-04-01 14:02,Tax portal crashed on deadline day again. Fine imposed. This is injustice.,Taxes,Reddit/politics (simulated),NEGATIVE,0.9577,CRITICAL,True
+sim_1775032375_4,2026-04-01 14:02,Ambulance didn't arrive for 2 hours. Patient died. Who is accountable?,Health,Reddit/worldnews (simulated),NEGATIVE,0.9439,CRITICAL,True
+sim_1775033508_0,2026-04-01 14:22,Government school digital classroom initiative is actually working in our village!,Education,Reddit/india (simulated),POSITIVE,0.9176,LOW,True
+sim_1775033542_1,2026-04-01 14:22,Scholarship money not credited for 6 months. Students suffering.,Education,Reddit/india (simulated),NEGATIVE,0.9271,CRITICAL,True
+sim_1775033542_2,2026-04-01 14:22,GST refund pending for 8 months. No response from department at all.,Taxes,Reddit/IndiaPolitics (simulated),NEGATIVE,0.7827,HIGH,True
+sim_1775033542_3,2026-04-01 14:22,Government school building collapsed due to poor maintenance. Thankfully no students.,Education,Reddit/worldnews (simulated),NEGATIVE,0.8622,CRITICAL,True
+sim_1775033542_4,2026-04-01 14:22,New metro line reduced my commute by 40 minutes. Great infrastructure work.,Transport,Reddit/india (simulated),POSITIVE,0.9645,LOW,True
+sim_1775036410_0,2026-04-01 15:10,Tax portal crashed on deadline day again. Fine imposed. This is injustice.,Taxes,Reddit/politics (simulated),NEGATIVE,0.9577,CRITICAL,True
+sim_1775036436_1,2026-04-01 15:10,GST refund pending for 8 months. No response from department at all.,Taxes,Reddit/IndiaPolitics (simulated),NEGATIVE,0.7827,HIGH,True
+sim_1775036436_2,2026-04-01 15:10,Scholarship money not credited for 6 months. Students suffering.,Education,Reddit/india (simulated),NEGATIVE,0.9271,CRITICAL,True
+sim_1775036436_3,2026-04-01 15:10,The new government hospital has no doctors again today. Third time this week.,Health,Reddit/india (simulated),NEGATIVE,0.8038,CRITICAL,True
+sim_1775036436_4,2026-04-01 15:10,The highway expansion project is finally complete ahead of schedule. Impressed.,Transport,Reddit/india (simulated),POSITIVE,0.9594,LOW,True
+sim_1775643126_0,2026-04-08 15:42,Pothole complaint app actually works. Road fixed within a week. Surprised.,Transport,Reddit/india (simulated),POSITIVE,0.8798,LOW,True
+sim_1775643148_1,2026-04-08 15:42,Road repair scheme announced but nothing on ground. Pure election stunt.,Transport,Reddit/india (simulated),NEGATIVE,0.5981,HIGH,True
+sim_1775643149_2,2026-04-08 15:42,Tax portal crashed on deadline day again. Fine imposed. This is injustice.,Taxes,Reddit/politics (simulated),NEGATIVE,0.9577,CRITICAL,True
+sim_1775643150_3,2026-04-08 15:42,Oh great another ribbon cutting ceremony for a hospital with no medicines inside.,Health,Reddit/IndiaPolitics (simulated),NEUTRAL,0.503,MEDIUM,True
+sim_1775643150_4,2026-04-08 15:42,Scholarship money not credited for 6 months. Students suffering.,Education,Reddit/india (simulated),NEGATIVE,0.9271,CRITICAL,True
+sim_1776239228_0,2026-04-15 13:17,Pothole complaint app actually works. Road fixed within a week. Surprised.,Transport,Reddit/india (simulated),NEUTRAL,0.5,MEDIUM,True
+sim_1776239228_1,2026-04-15 13:17,Government school digital classroom initiative is actually working in our village!,Education,Reddit/india (simulated),NEUTRAL,0.5,MEDIUM,True
+sim_1776239228_2,2026-04-15 13:17,Scholarship money not credited for 6 months. Students suffering.,Education,Reddit/india (simulated),NEUTRAL,0.5,MEDIUM,True
+sim_1776239228_3,2026-04-15 13:17,The new government hospital has no doctors again today. Third time this week.,Health,Reddit/india (simulated),NEUTRAL,0.5,MEDIUM,True
+sim_1776239228_4,2026-04-15 13:17,Health minister gave a speech about healthcare. The PHC in his own area has no staff.,Health,Reddit/india (simulated),NEUTRAL,0.5,MEDIUM,True
+sim_1776840173_0,2026-04-22 12:12,Ambulance didn't arrive for 2 hours. Patient died. Who is accountable?,Health,Reddit/worldnews (simulated),NEUTRAL,0.5,MEDIUM,True
+sim_1776840173_1,2026-04-22 12:12,Pothole complaint app actually works. Road fixed within a week. Surprised.,Transport,Reddit/india (simulated),NEUTRAL,0.5,MEDIUM,True
+sim_1776840173_2,2026-04-22 12:12,The highway expansion project is finally complete ahead of schedule. Impressed.,Transport,Reddit/india (simulated),NEUTRAL,0.5,MEDIUM,True
+sim_1776840173_3,2026-04-22 12:12,The new government hospital has no doctors again today. Third time this week.,Health,Reddit/india (simulated),NEUTRAL,0.5,MEDIUM,True
+sim_1776840173_4,2026-04-22 12:12,Government school digital classroom initiative is actually working in our village!,Education,Reddit/india (simulated),NEUTRAL,0.5,MEDIUM,True
